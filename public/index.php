@@ -8,7 +8,6 @@ if (PHP_MAJOR_VERSION  <  8) {
 
 echo 'TEST';
 
-echo 'hello';
 
 
 
