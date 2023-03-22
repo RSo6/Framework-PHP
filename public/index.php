@@ -10,7 +10,6 @@ echo 'TEST';
 
 
 
-echo "hello";
 
 
 
