@@ -6,8 +6,11 @@ if (PHP_MAJOR_VERSION  <  8) {
 
     require_once dirname(__DIR__) .  '/config/init.php';
 
-echo 'TEST';
+new \wfm\app();
 
+//echo \wfm\app::$app->getProperty('pagination');
+//\wfm\app::$app->setProperty('test','Test');
+//var_dump(\wfm\app::$app->getProperties());
 
 
 
