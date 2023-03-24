@@ -8,11 +8,11 @@ if (PHP_MAJOR_VERSION  <  8) {
 
 new \wfm\app();
 
-//echo \wfm\app::$app->getProperty('pagination');
-//\wfm\app::$app->setProperty('test','Test');
-//var_dump(\wfm\app::$app->getProperties());
+throw new Exception("Error occured");
 
 
+
+//echo  $test;
 
 
 
