@@ -54,7 +54,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <body>
 <div class="wrap">
     <div class="logo">
-        <img src=file:///D:/Soft%20for%20prog/OSPanel/domains/GitHub/new-myshop.loc/public/errors/images/404.png alt=""/>
+        <img src="/public/errors/images/404.png" alt=""/>
         <p><a href="<?= PATH ;?>">Go back to Home</a></p>
     </div>
 </div>
