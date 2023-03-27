@@ -54,13 +54,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <body>
 <div class="wrap">
     <div class="logo">
+        <p class = "center-img">
         <img src="/public/errors/images/404.png" alt=""/>
-        <p><a href="<?= PATH ;?>">Go back to Home</a></p>
+        </p>
+        <p><a href="<?=PATH;?>">Go back to Home</a></p>
     </div>
 </div>
-<div class="footer">
-    Design by - <a href="https://w3layouts.com">W3Layouts</a>
-</div>
+
 
 </body>
 </html>
