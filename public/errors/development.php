@@ -14,7 +14,7 @@ use wfm\ErrorHandler;
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-            <title>Ошибка</title>
+            <title>Помилка</title>
 </head>
 <body>
 
