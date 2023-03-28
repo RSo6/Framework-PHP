@@ -11,7 +11,7 @@ new \wfm\app();
 
 //throw new Exception("Error was occured");
 //echo "hello";
-//echo  $test;
+
 
 debug(\wfm\Router::getRoutes());
 

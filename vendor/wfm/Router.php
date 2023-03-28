@@ -25,9 +25,9 @@ class Router {
     public static function dispatch($url) {
 
         if (self::matchRoute($url)){
-            echo 'Unbelievable - it works';
+            echo 'UNBELIEVABLE - IT WORKS ツ';
         } else{
-            echo '֍ PROBLEM HAS AROSED ֍';
+            echo 'PROBLEM HAS AROSE!!! ☹ ';
         }
     }
 

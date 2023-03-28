@@ -5,61 +5,23 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 <!DOCTYPE HTML>
-<html lang="">
+<html lang="en">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Free 404 White for Iphone, Android & Smartphone Mobile Website Template | Home :: w3layouts</title>
-    <style type="text/css">
-        body{
-            font-family:Arial, Helvetica, sans-serif;
-        }
-        .wrap{
-            width:1000px;
-            margin:0 auto;
-        }
-        .logo{
-            width:430px;
-            position:absolute;
-            top:25%;
-            left:35%;
-        }
-        p a{
-            color:#eee;
-            font-size:13px;
-            margin-left:30px;
-            padding:5px;
-            background:#FF3366;
-            text-decoration:none;
-            -webkit-border-radius:.3em;
-            -moz-border-radius:.3em;
-            border-radius:.3em;
-        }
-        p a:hover{
-            color: #fff;
-        }
-        .footer{
-            position:absolute;
-            bottom:10px;
-            right:10px;
-            font-size:12px;
-            color:#aaa;
-        }
-        .footer a{
-            color:#666;
-            text-decoration:none;
-        }
-
-    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0,
+          maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>404 page</title>
+    <link rel = "stylesheet" href = "/public/errors/404.css">
 </head>
 <body>
-<div class="wrap">
-    <div class="logo">
-        <p class = "center-img">
-        <img src="/public/errors/images/404.png" alt=""/>
-        </p>
-        <p><a href="<?=PATH;?>">Go back to Home</a></p>
+<div class="box">
+    <div class ="round"></div>
+    <div class ="round big"></div>
+    <h1><b style="--i:1">4</b><b style="--i:2">0</b><b style="--i:3">4</b></h1>
     </div>
-</div>
+<a href="<?=PATH;?>" class = "btn">Home</a>
 
 
 </body>
