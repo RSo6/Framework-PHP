@@ -7,24 +7,37 @@ class Router {
     protected static array $routes = [];
     protected static  array $route = [];
 
-    public static function add($regexp , $route = []){
+    public static function add($regexp , $route = []) {
 
         self::$routes[$regexp] = $route;
     }
 
-    public static function getRoutes() : array{
+    public static function getRoutes() : array {
 
         return self::$routes;
     }
 
-    public static function getRoute() : array{
+    public static function getRoute() : array {
 
         return self::$route;
     }
 
+    protected static function removeQueryString($url) {
+        if ($url) {
+            $params = explode('&',$url,2);
+            if (false=== str_contains($params[0],'=')) {
+                 return rtrim($params[0], '/');
+
+            }
+        }
+        return '';
+
+    }
     public static function dispatch($url) {
 
-        if (self::matchRoute($url)){
+        $url = self::removeQueryString($url);
+
+        if (self::matchRoute($url)) {
 
            $controller = 'app\controllers\\' . self::$route['admin_prefix']
             . self::$route['controller'] . 'Controller';

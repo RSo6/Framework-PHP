@@ -1,29 +1,6 @@
-[2023-03-28 17:15:47] 
-         Error text: Controller app\controllers\PageController Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 42 
-        
-================[2023-03-28 17:16:42] 
-         Error text: Method app\controllers\PageController::viewAction Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 38 
-        
-=================
-[2023-03-28 17:20:23] 
-         Error text: Controller app\controllers\admin\MainController Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 42 
-        
-=================
-[2023-03-28 17:22:22] 
-         Error text: Method app\controllers\admin\MainController::indexAction Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 38 
-        
-=================
-[2023-03-28 17:26:57] 
+[2023-03-28 17:43:45] 
          Error text: Page Not Found                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 46 
+        | String: 48 
         
 =================
