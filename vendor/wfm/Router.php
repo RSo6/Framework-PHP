@@ -50,7 +50,10 @@ class Router {
                                     // перевірка, чи autoloader побачив такий класс
             if (class_exists($controller)) {
                                     // створюємо об'єкт контроллера
+                                     /** @var Controller $controller_object */
                 $controller_object = new $controller(self::$route);
+
+                $controller_object ->getModel();
                                     // формуємо action (метод) з отриманого URL або ж по замовчуванню
                 $action = self::lowerCamelCase(self::$route['action'] . 'Action');
                                     // перевіряємо, чи такий метод існує у контексті екземпляру контроллера
