@@ -10,3 +10,195 @@
         | String: 67 
         
 =================
+[2023-03-30 19:25:16] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:35:06] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:15] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:16] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:17] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:31] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:34] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:34] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:34] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:34] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:35] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:35] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:36:35] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:39:17] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:39:17] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:39:22] 
+         Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-03-30 19:50:30] 
+         Error text: Call to undefined method app\controllers\PageController::getModel()                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 56 
+        
+=================
+[2023-03-30 19:58:08] 
+         Error text: Не знайдено видD:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 31 
+        
+=================
+[2023-03-30 19:58:31] 
+         Error text: Не знайдено вид  D:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 31 
+        
+=================
+[2023-03-30 19:58:43] 
+         Error text: Не знайдено вид: D:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 31 
+        
+=================
+[2023-03-30 19:59:36] 
+         Error text: Не знайдено вид: D:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 31 
+        
+=================
+[2023-03-30 20:00:04] 
+         Error text: Не знайдено вид: D:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 31 
+        
+=================
+[2023-03-30 20:11:03] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================
+[2023-03-30 20:14:39] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================
+[2023-03-30 20:14:40] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================
+[2023-03-30 20:14:40] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================
+[2023-03-30 20:14:41] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================
+[2023-03-30 20:15:05] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================
+[2023-03-30 20:15:06] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================
+[2023-03-30 20:15:06] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================
+[2023-03-30 20:15:06] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================
+[2023-03-30 20:15:07] 
+         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 40 
+        
+=================

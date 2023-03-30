@@ -54,6 +54,7 @@ class Router {
                 $controller_object = new $controller(self::$route);
 
                 $controller_object ->getModel();
+                $controller_object ->getView();
                                     // формуємо action (метод) з отриманого URL або ж по замовчуванню
                 $action = self::lowerCamelCase(self::$route['action'] . 'Action');
                                     // перевіряємо, чи такий метод існує у контексті екземпляру контроллера

@@ -13,7 +13,7 @@ new \wfm\app();
 //echo "hello";
 
 
-debug(\wfm\Router::getRoutes());
+//debug(\wfm\Router::getRoutes());
 
 
 
