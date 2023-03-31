@@ -6,10 +6,22 @@ use wfm\Controller;
 
 class MainController extends Controller
 {
-        public function indexAction(){
-//            echo 'Hello, world! ';
-//            var_dump($this->model);
-//            echo __METHOD__;
-        }
-
+    public function indexAction()
+    {
+        $names = ['Myroslav', 'Roman', 'Vasily'];
+        $this->setMeta(
+            'Main Page',
+            'description...',
+            'keywords...'
+        );
+//        $this->set(['test' => 'Test VAR', 'name' => 'John']);
+//        $this->set(['names'=>$names]);
+        $this->set(compact('names'));
+    }
 }
+
+
+
+
+
+

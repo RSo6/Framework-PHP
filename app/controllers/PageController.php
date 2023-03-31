@@ -5,8 +5,8 @@ namespace app\controllers;
 class PageController
 {
 
-    public function viewAction(){
-
+    public function viewAction()
+    {
         echo __METHOD__;
     }
 

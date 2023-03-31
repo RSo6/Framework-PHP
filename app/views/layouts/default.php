@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<?php echo $this -> content ?>
+<?= $this->content ?>
 
 </body>
 </html>

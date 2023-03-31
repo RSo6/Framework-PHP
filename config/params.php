@@ -1,14 +1,12 @@
 <?php
 
-        return [
+return [
+    'admin_email' => 'admin@new-myshop.loc',
 
-            'admin_email' => 'admin@new-myshop.loc',
+    'site_name' => 'E-Shop',
 
-            'site_name' => 'E-Shop',
-
-            'pagination' => '3'
-
-        ];
+    'pagination' => '3'
+];
 
 
 

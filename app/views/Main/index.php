@@ -1,3 +1,3 @@
-<?php
-?>
-<h1>Hello Main/index.php!</h1>
+<h1>Hello Main/index!</h1>
+
+<?php //debug($names); ?>

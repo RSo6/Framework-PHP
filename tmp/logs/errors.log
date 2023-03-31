@@ -1,204 +1,902 @@
-[2023-03-28 17:43:45] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+[2023-03-31 20:02:33] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
         | String: 48 
         
 =================
-[2023-03-28 23:00:51] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 67 
-        
-=================
-[2023-03-30 19:25:16] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:35:06] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:15] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:16] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:17] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:31] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:34] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:34] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:34] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:34] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:35] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:35] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:36:35] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:39:17] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:39:17] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:39:22] 
-         Error text: Page Not Found                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 71 
-        
-=================
-[2023-03-30 19:50:30] 
-         Error text: Call to undefined method app\controllers\PageController::getModel()                                            
-        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
-        | String: 56 
-        
-=================
-[2023-03-30 19:58:08] 
-         Error text: Не знайдено видD:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+[2023-03-31 20:10:51] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 31 
+        | String: 48 
         
 =================
-[2023-03-30 19:58:31] 
-         Error text: Не знайдено вид  D:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+[2023-03-31 20:10:52] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 31 
+        | String: 48 
         
 =================
-[2023-03-30 19:58:43] 
-         Error text: Не знайдено вид: D:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+[2023-03-31 20:12:05] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 31 
+        | String: 48 
         
 =================
-[2023-03-30 19:59:36] 
-         Error text: Не знайдено вид: D:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+[2023-03-31 20:12:06] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 31 
+        | String: 48 
         
 =================
-[2023-03-30 20:00:04] 
-         Error text: Не знайдено вид: D:\OSPanel\domains\new-myshop.loc/app/views/Main/index.php                                            
+[2023-03-31 20:12:06] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 31 
+        | String: 48 
         
 =================
-[2023-03-30 20:11:03] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:12:06] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
         
 =================
-[2023-03-30 20:14:39] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:12:07] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
         
 =================
-[2023-03-30 20:14:40] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:15:10] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
         
 =================
-[2023-03-30 20:14:40] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:15:10] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
         
 =================
-[2023-03-30 20:14:41] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:15:10] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
         
 =================
-[2023-03-30 20:15:05] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:15:11] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
         
 =================
-[2023-03-30 20:15:06] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:17:14] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
         
 =================
-[2023-03-30 20:15:06] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:17:15] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
         
 =================
-[2023-03-30 20:15:06] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:17:16] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
         
 =================
-[2023-03-30 20:15:07] 
-         Error text: Не знайдено шаблон: D:\OSPanel\domains\new-myshop.loc/app/views/layouts/myShop.php                                            
+[2023-03-31 20:17:16] 
+        Error text: Undefined array key "title"                                            
         | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
-        | String: 40 
+        | String: 48 
+        
+=================
+[2023-03-31 20:17:17] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:19:08] Текст ошибки: Undefined array key "title" | Файл: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php | Строка: 48
+=================
+[2023-03-31 20:21:21] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:21:53] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:21:53] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:21:54] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:24:27] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:24:27] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:24:28] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:24:28] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:24:28] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:25:00] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:25:00] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:25:01] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:29:39] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:29:39] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:29:40] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:29:41] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:29:41] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:29:42] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:29:42] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:29:42] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:29:43] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:30:59] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:30:59] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:00] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:00] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:00] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:01] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:01] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:02] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:02] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:02] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:03] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:03] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:04] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:04] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:04] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:11] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:13] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:14] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:14] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:14] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:15] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:31:15] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 48 
+        
+=================
+[2023-03-31 20:40:36] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:44] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:45] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:45] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:45] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:46] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:46] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:46] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:46] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:51] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:51] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:40:56] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 20:41:38] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 20:41:38] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 20:41:39] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 20:41:39] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 20:41:49] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:42:21] 
+        Error text: Controller app\controllers\AppController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 69 
+        
+=================
+[2023-03-31 20:42:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 72 
+        
+=================
+[2023-03-31 20:43:06] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 72 
+        
+=================
+[2023-03-31 20:43:12] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 72 
+        
+=================
+[2023-03-31 20:43:14] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:43:18] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:43:19] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:24] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:25] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:26] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:26] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:26] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:26] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:26] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:27] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:27] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:27] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:28] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:28] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:28] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:28] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:46:29] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:47:02] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:47:03] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:47:03] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:47:03] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:47:04] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:47:04] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:47:04] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:47:04] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:51:34] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:35] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:36] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:36] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:37] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:37] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:38] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:38] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:38] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:39] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:39] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:39] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:39] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:40] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:51:40] 
+        Error text: Undefined variable $test                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:54:45] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:54:46] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:54:46] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 5 
+        
+=================
+[2023-03-31 20:55:35] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:56:53] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 20:56:54] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:23] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:24] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:24] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:24] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:25] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:25] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:25] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:25] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:26] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:26] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:26] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:26] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:27] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:27] 
+        Error text: Undefined variable $names                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Main\index.php                        
+        | String: 3 
+        
+=================
+[2023-03-31 21:00:31] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 21:04:34] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 21:04:35] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 21:04:35] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 21:04:35] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 21:04:35] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 21:04:36] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
+        
+=================
+[2023-03-31 21:04:36] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 49 
         
 =================
