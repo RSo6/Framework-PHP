@@ -44,10 +44,9 @@ class Router
         // отримуємо чистий URL без GET
         $url = self::removeQueryString($url);
         // перевірка з правилами маршрутизації
-        if (self::matchRoute($url)) {
-            // формуємо простір імен з отриманого URL
-            $controller = 'app\controllers\\' . self::$route['admin_prefix']
-                . self::$route['controller'] . 'Controller';
+
+        if (self::matchRoute($url)) { // формуємо простір імен з отриманого URL
+            $controller = 'app\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
             // перевірка, чи autoloader побачив такий класс
             if (class_exists($controller)) {
                 // створюємо об'єкт контроллера
@@ -55,13 +54,15 @@ class Router
                 $controller_object = new $controller(self::$route);
 
                 $controller_object->getModel();
-                $controller_object->getView();
+
                 // формуємо action (метод) з отриманого URL або ж по замовчуванню
                 $action = self::lowerCamelCase(self::$route['action'] . 'Action');
                 // перевіряємо, чи такий метод існує у контексті екземпляру контроллера
                 if (method_exists($controller_object, $action)) {
                     // викликаємо action (метод)
                     $controller_object->$action();
+                    $controller_object->getView();
+                debug($controller_object);
                 } else {
                     throw new \Exception("Method {$controller}::{$action} Not Found", 404);
                 }
@@ -78,7 +79,8 @@ class Router
         // перебираємо дані, внесені методом Router::add
         foreach (self::$routes as $pattern => $route) {
             // звірка вхідного URL з регуляркою
-            if (preg_match("~{$pattern}~u", $url, $matches)) {
+            //if (preg_match("~{$pattern}~u", $url, $matches)) {
+            if (preg_match("#{$pattern}#", $url, $matches)) {
                 // якщо є співпадіння, то заносимо до массиву $matches
                 foreach ($matches as $k => $v) {
                     // заповнюємо тільки текстові індекси
@@ -112,12 +114,12 @@ class Router
     protected static function upperCamelCase($name): string
     {
         // заміна дефісу на пробіл
-        $name = str_replace('-', ' ', $name); //new-product => new product
+         //new-product => new product
         // приведення всіх слів до першої Великої літери
-        $name = ucwords($name); //new product => New Product
+        //new product => New Product
         // прибираємо пробіл між словами
-        $name = str_replace(' ', '', $name); //New Product => NewProduct
-        return $name;
+         //New Product => NewProduct
+        return str_replace(' ', '', ucwords(str_replace('-', ' ', $name)));
     }
 
     //camelCase

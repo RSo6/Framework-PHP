@@ -2,7 +2,7 @@
 
 namespace wfm;
 
-class app
+class App
 {
 
     public static $app;
@@ -12,7 +12,7 @@ class app
         $query = trim(urldecode($_SERVER['QUERY_STRING']), '/');
         new ErrorHandler();
         self::$app = Registry::getInstance();
-        $this -> getParams();
+        $this->getParams();
         Router::dispatch($query);
     }
     protected function getParams()
@@ -20,7 +20,7 @@ class app
         $params = require_once CONFIG . '/params.php';
       if (!empty($params)) {
       foreach ($params as $k => $v) {
-        self::$app -> setProperty($k,$v);
+        self::$app->setProperty($k, $v);
         }
       }
    }

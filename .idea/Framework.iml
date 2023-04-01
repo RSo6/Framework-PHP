@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/vendor/wfm" isTestSource="false" packagePrefix="wfm\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/wfm/helpers" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/gabordemooij/redbean" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

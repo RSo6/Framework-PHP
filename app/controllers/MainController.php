@@ -2,20 +2,18 @@
 
 namespace app\controllers;
 
+use app\models\Main;
 use wfm\Controller;
 
+/**
+ * @property Main $model
+ */
 class MainController extends Controller
 {
     public function indexAction()
     {
-        $names = ['Myroslav', 'Roman', 'Vasily'];
-        $this->setMeta(
-            'Main Page',
-            'description...',
-            'keywords...'
-        );
-//        $this->set(['test' => 'Test VAR', 'name' => 'John']);
-//        $this->set(['names'=>$names]);
+        $names = $this->model->get_names();
+        $this->setMeta('Главная страница', 'Description...', 'keywords...');
         $this->set(compact('names'));
     }
 }

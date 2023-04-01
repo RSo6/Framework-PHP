@@ -23,16 +23,16 @@ class View
         if (is_array($data)) {
             extract($data);
         }
-
         // admin\ => admin/
         $prefix = str_replace('\\', '/', $this->route['admin_prefix']);
-        $view_file = APP . "/views/{$prefix}{$this -> route['controller']}/{$this->view}.php";
+        $view_file = APP . "/views/{$prefix}{$this->route['controller']}/{$this->view}.php";
+
         if (is_file($view_file)) {
             ob_start();
             require_once $view_file;
             $this->content = ob_get_clean();
         } else {
-            throw new \Exception("Не знайдено вид: {$view_file}", 500);
+            throw new \Exception("Не знайдено вид {$view_file}", 500);
         }
 
         if (false !== $this->layout) {
@@ -40,13 +40,13 @@ class View
             if (is_file($layout_file)) {
                 require_once $layout_file;
             } else {
-                throw  new \Exception("Не знайдено шаблон: {$layout_file}", 500);
+                throw  new \Exception("Не знайдено шаблон {$layout_file}", 500);
             }
         }
     }
-    public function getMeta() : string
+    public function getMeta()
     {
-        $out = '<title>'.h($this->meta['title']).'</title>'. PHP_EOL;
+        $out = '<title>' . h($this->meta['title']) . '</title>' . PHP_EOL;
         $out .= '<meta name="description" content="' . h($this->meta['description']) . '">' . PHP_EOL;
         $out .= '<meta name="keywords" content="' . h($this->meta['keywords']) . '">' . PHP_EOL;
         return $out;
