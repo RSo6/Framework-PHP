@@ -2,6 +2,8 @@
 
 namespace wfm;
 
+use RedBeanPHP\R;
+
 class View
 {
     public string $content = '';
@@ -40,7 +42,7 @@ class View
             if (is_file($layout_file)) {
                 require_once $layout_file;
             } else {
-                throw  new \Exception("Не знайдено шаблон {$layout_file}", 500);
+                throw new \Exception("Не знайдено шаблон {$layout_file}", 500);
             }
         }
     }
@@ -52,4 +54,37 @@ class View
         return $out;
     }
 
+    public function getDbLogs()//цей метод дістає логи з бази данних;
+    {
+        if (DEBUG) {//якщо дебаг дорівнює 1 тобто тру то викон. наступні дії;
+            $logs = R::getDatabaseAdapter()
+                ->getDatabase()
+                ->getLogger();
+            $logs = array_merge(//функція array_merge - зливає массиви в одне ціле;
+                $logs->grep('SELECT'),
+                $logs->grep('select'),
+                $logs->grep('INSERT'),
+                $logs->grep('UPDATE'),
+                $logs->grep('DELETE')
+            );
+            debug($logs);
+        }
+
+    }
+
+    public function getPart($file,$data = null)//дістає певну частину шаблона
+    {
+        if (is_array($data)) {
+            //дістаємо, після чого ці данні стануть доступні у підкл. шаблоні
+            extract($data);
+        }
+            //Формуємо шлях до нашого підкл. шаблону.
+        $file = APP . "/views/{$file}.php";
+        if (is_file($file)) { //якщо він є
+            require $file;    //тоді тут ми підкл його
+        } else {               //в іншому випадку
+            echo "File {$file} not found...";//виведе файл не знайдено
+        }
+
+    }
 }

@@ -62,7 +62,7 @@ class Router
                     // викликаємо action (метод)
                     $controller_object->$action();
                     $controller_object->getView();
-                debug($controller_object);
+//                debug($controller_object);
                 } else {
                     throw new \Exception("Method {$controller}::{$action} Not Found", 404);
                 }

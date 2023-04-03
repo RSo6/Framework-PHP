@@ -21,7 +21,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class ="round big"></div>
     <h1><b style="--i:1">4</b><b style="--i:2">0</b><b style="--i:3">4</b></h1>
     </div>
-<a href="<?=PATH;?>" class = "btn">Home</a>
+<a href="<?php echo PATH; ?>" class = "btn">Home</a>
 
 
 </body>

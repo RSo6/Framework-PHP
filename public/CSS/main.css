@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Playfair+Display:ital,wght@1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-color: #fafafa;
+    font-family: Trebuchet MS, Helvetica, serif;
+}
+header {
+    width:100%;
+    padding:10px 0.5% 0 0.5%;
+    background: transparent;
+    float: left;
+    position: fixed;
+}
+header #logo {
+    color: #ffffff;
+    cursor: pointer;
+}
+header #logo span {
+    font-size: 1.7em;
+    line-height: 45px;
+    margin-left: 40px;
+    transition: all .07s ease-in-out;
+}
+header #logo span:hover {
+    color:chocolate;
+    transition: all .07s ease-in-out;
+}
+@media (min-width: 701px) {
+    #logo {
+        float: left;
+        width: 30%;
+        font-size: 1.1em;
+    }
+    #about {
+        float: right;
+        width: 67%;
+    }
+}
+@media (max-width: 700px) {
+    #logo {
+        margin-top: 15px;
+        width: 100%;
+        font-size: 1.9em;
+    }
+    #about {
+        float: left;
+        width: 100%;
+    }
+}
+    #about {
+        text-align: center;
+        font-size: 1em;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    #about > a {color:#ffffff}
+    #about > a:hover {
+        color:#b0b0b0;
+        text-decoration: underline;
+    }
+    #about > a:not(:last-child) {
+        margin-right: 10%;
+    }
+
+    .fixed {
+        z-index: 5000;
+        background-color: #ffffff;
+        border-bottom: 1px solid silver;
+    }
+
+    header.fixed #logo {
+        color: #343434;
+    }
+
+    .fixed #about a {color: #343434}
+    .fixed #about a:hover {color: #7c7c7c}
+
+    #top {
+        width: 100%;
+        height: 1000px;
+        background-image: url("https://photographylife.com/wp-content/uploads/2016/06/Mass.jpg");
+        background-blend-mode: multiply;
+        background-color: #2e3a44;
+        background-size: cover;
+        text-align: center;
+        color: #fff;
+        font-size: 3em;
+    }
+
+    @media (min-width: 1001px) {
+        #top {
+            font-size:3em;
+        }
+    }
+
+    @media (max-width: 1000px) and (min-width: 651px){
+        #top {
+            font-size:2em;
+        }
+    }
+
+    @media (max-width: 650px) {
+        #top {
+            font-size:1em;
+        }
+    }
+
+    #top h1 {
+        padding-top: 20%;
+    }
+
+    #top h3 {
+        color: #ccc;
+    }
+
+    .navbar {
+        width: 100%;
+        height: 70px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, .1) ;
+    }
+
+    .navbar .container {
+        height: inherit;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .navbar-menu {
+        list-style-type: none;
+        padding-left: 0;
+        margin-bottom: 0;
+    }
+
+    .navbar-menu li {
+       display: inline-block;
+    }
+
+    .navbar-menu li a {
+       display: inline-block;
+        color: #fafafa;
+        opacity: 0.6;
+        text-decoration: none;
+        padding: 10px;
+        transition: all .07s ease-in-out;
+    }
+
+    .navbar-menu li a:hover {
+        opacity: 1;
+    }
+
+    .navbar-wrap {
+        display: flex;
+        flex-flow: row nowrap;
+    }
+
+    .callback {
+        margin-left: 30px;
+        padding: 10px 30px;
+        background-color: chocolate;
+        border-radius: 100px;
+        color: #fafafa;
+        text-decoration: none;
+        box-shadow: 0 4px 6px rgba(255, 127, 80, 2);
+        transition: all .1s ease-out;
+    }
+
+    .callback:hover {
+        transform: scale(1.04);
+        color: #fafafa;
+        box-shadow: 0 9px 9px rgba(255, 127, 80, 5);
+    }
+
+
+
+
+

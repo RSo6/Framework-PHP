@@ -1,7 +1,7 @@
 <?php
 
 namespace wfm;
-//                                       https://habr.com/ru/post/161483/
+
 class ErrorHandler
 {
     public function __construct()
