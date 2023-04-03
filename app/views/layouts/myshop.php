@@ -7,7 +7,7 @@ use wfm\View;
 <?php //$this->getPart('parts/header'); ?>
 <?php //echo $this->content; ?>
 <?php //$this->getPart('parts/footer'); ?>
-<!doctype html>
+<!--<!doctype html>
 <html lang="en">
 <head>
     <style type="text/css">
@@ -22,11 +22,11 @@ use wfm\View;
     <base href="/">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="<?= PATH ?>/public/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php /*= PATH */?>/public/assets/bootstrap/css/bootstrap.min.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
-    <link rel="stylesheet" href="<?= PATH ?>/public/assets/css/main.css">
+    <link rel="stylesheet" href="<?php /*= PATH */?>/public/assets/css/main.css">
 
     <title>ModernShop</title>
 </head>
@@ -75,7 +75,7 @@ use wfm\View;
                                         <tbody>
                                         <tr>
                                             <td>
-                                                <a href="#"><img src="<?= PATH ?>/public/assets/img/products/macbook.jpg" alt=""></a>
+                                                <a href="#"><img src="<?php /*= PATH */?>/public/assets/img/products/macbook.jpg" alt=""></a>
                                             </td>
                                             <td><a href="#">Назва товару</a></td>
                                             <td>1</td>
@@ -122,12 +122,12 @@ use wfm\View;
 
                     <div class="dropdown d-inline-block">
                         <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">
-                            <img src="<?= PATH ?>/public/assets/img/ua.png" alt="">
+                            <img src="<?php /*= PATH */?>/public/assets/img/ua.png" alt="">
                         </a>
                         <ul class="dropdown-menu" id="languages">
                             <li>
                                 <button class="dropdown-item" data-langcode="en">
-                                    <img src="<?= PATH ?>/public/assets/img/sss.png" alt="">
+                                    <img src="<?php /*= PATH */?>/public/assets/img/sss.png" alt="">
                                     English</button>
                             </li>
                         </ul>
@@ -261,10 +261,10 @@ use wfm\View;
             <div class="col-lg-4 col-sm-6 mb-3">
                 <div class="product-card">
                     <div class="product-tumb">
-                        <a href="<?= PATH ?>/assets/product.html"><img src="https://www.techhive.com/wp-content/uploads/2022/01/appletv4k2021hero-100890176-orig.jpg?quality=50&strip=all" alt=""></a>
+                        <a href="<?php /*= PATH */?>/assets/product.html"><img src="https://www.techhive.com/wp-content/uploads/2022/01/appletv4k2021hero-100890176-orig.jpg?quality=50&strip=all" alt=""></a>
                     </div>
                     <div class="product-details">
-                        <h4><a href="<?= PATH ?>/assets/product.html">Apple TV</a></h4>
+                        <h4><a href="<?php /*= PATH */?>/assets/product.html">Apple TV</a></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!</p>
                         <div class="product-bottom-details d-flex justify-content-between">
                             <div class="product-price"><small></small>$159.99</div>
@@ -280,10 +280,10 @@ use wfm\View;
             <div class="col-lg-4 col-sm-6 mb-3">
                 <div class="product-card">
                     <div class="product-tumb">
-                        <a href="<?= PATH ?>/assets/product.html"><img src="https://www.ixbt.com/img/r30/00/02/18/73/AppleiMacgets2xmoreperformance03192019.jpg" alt=""></a>
+                        <a href="<?php /*= PATH */?>/assets/product.html"><img src="https://www.ixbt.com/img/r30/00/02/18/73/AppleiMacgets2xmoreperformance03192019.jpg" alt=""></a>
                     </div>
                     <div class="product-details">
-                        <h4><a href="<?= PATH ?>/assets/product.html">Apple iMac 5K 27″ (Early 2019)</a></h4>
+                        <h4><a href="<?php /*= PATH */?>/assets/product.html">Apple iMac 5K 27″ (Early 2019)</a></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!</p>
                         <div class="product-bottom-details d-flex justify-content-between">
                             <div class="product-price"><small>$1499</small>$230.99</div>
@@ -299,10 +299,10 @@ use wfm\View;
             <div class="col-lg-4 col-sm-6 mb-3">
                 <div class="product-card">
                     <div class="product-tumb">
-                        <a href="<?= PATH ?>/assets/product.html"><img src="<?= PATH ?>/assets/img/products/imac_1.jpg" alt=""></a>
+                        <a href="<?php /*= PATH */?>/assets/product.html"><img src="<?php /*= PATH */?>/assets/img/products/imac_1.jpg" alt=""></a>
                     </div>
                     <div class="product-details">
-                        <h4><a href="<?= PATH ?>/assets/product.html">iMac</a></h4>
+                        <h4><a href="<?php /*= PATH */?>/assets/product.html">iMac</a></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!</p>
                         <div class="product-bottom-details d-flex justify-content-between">
                             <div class="product-price"><small>$96.00</small>$230.99</div>
@@ -318,10 +318,10 @@ use wfm\View;
             <div class="col-lg-4 col-sm-6 mb-3">
                 <div class="product-card">
                     <div class="product-tumb">
-                        <a href="<?= PATH ?>/assets/product.html"><img src="<?= PATH ?>/assets/img/products/imac_1.jpg" alt=""></a>
+                        <a href="<?php /*= PATH */?>/assets/product.html"><img src="<?php /*= PATH */?>/assets/img/products/imac_1.jpg" alt=""></a>
                     </div>
                     <div class="product-details">
-                        <h4><a href="<?= PATH ?>/assets/product.html">iMac</a></h4>
+                        <h4><a href="<?php /*= PATH */?>/assets/product.html">iMac</a></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, possimus nostrum!</p>
                         <div class="product-bottom-details d-flex justify-content-between">
                             <div class="product-price"><small>$96.00</small>$230.99</div>
@@ -427,12 +427,13 @@ use wfm\View;
 </button>
 
 
-<script src="<?= PATH ?>/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="<?php /*= PATH */?>/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"
         integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
         crossorigin="anonymous"></script>
-<script src="<?= PATH ?>/assets/js/main.js"></script>
+<script src="<?php /*= PATH */?>/assets/js/main.js"></script>
 
 </body>
 </html>
 
+-->

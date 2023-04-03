@@ -3724,3 +3724,9 @@
         | String: 73 
         
 =================
+[2023-04-03 20:47:35] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 73 
+        
+=================
