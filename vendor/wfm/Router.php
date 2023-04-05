@@ -54,7 +54,6 @@ class Router
                 $controller_object = new $controller(self::$route);
 
                 $controller_object->getModel();
-
                 // формуємо action (метод) з отриманого URL або ж по замовчуванню
                 $action = self::lowerCamelCase(self::$route['action'] . 'Action');
                 // перевіряємо, чи такий метод існує у контексті екземпляру контроллера
@@ -74,13 +73,13 @@ class Router
         }
     }
 
+
     public static function matchRoute($url): bool
     {
         // перебираємо дані, внесені методом Router::add
         foreach (self::$routes as $pattern => $route) {
             // звірка вхідного URL з регуляркою
-            //if (preg_match("~{$pattern}~u", $url, $matches)) {
-            if (preg_match("#{$pattern}#", $url, $matches)) {
+            if (preg_match("~{$pattern}~", $url, $matches)) {
                 // якщо є співпадіння, то заносимо до массиву $matches
                 foreach ($matches as $k => $v) {
                     // заповнюємо тільки текстові індекси
