@@ -8,7 +8,7 @@ body {
 	line-height: 27px;
 	font-weight: 400;
 	color: #000;
-	background-color: #221515;
+	background-color: #000000;
 	min-width: 320px;
 	padding-top: 135px;
 }
@@ -40,7 +40,7 @@ section {
 .section-title {
 	overflow: hidden;
 	text-transform: uppercase;
-	color: #000;
+	color: #FFFFFF;
 	margin-bottom: 30px;
 	text-align: center;
 }
@@ -126,7 +126,7 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 
 /* Header top */
 .header-top {
-	background-color: #221515;
+	background-color: #6a5c4d;
 	position: relative;
 }
 

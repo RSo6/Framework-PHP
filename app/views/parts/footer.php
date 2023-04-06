@@ -1,5 +1,9 @@
 <?php
+
+use wfm\View;
+
 /** @var $this View */
+
 ?>
 <footer>
     <section class="footer">
@@ -70,7 +74,8 @@
                     <tbody>
                     <tr>
                         <td>
-                            <a href="#"><img src="<?= PATH ?>/public/assets/img/products/apple_cinema_30.jpg" alt=""></a>
+                            <a href="#"><img src="<?php
+                                echo PATH ?>/public/assets/img/products/apple_cinema_30.jpg" alt=""></a>
                         </td>
                         <td><a href="#">Apple cinema</a></td>
                         <td>1</td>
@@ -78,7 +83,8 @@
                     </tr>
                     <tr>
                         <td>
-                            <a href="#"><img src="<?= PATH ?>/public/assets/img/products/canon_eos_5d_1.jpg" alt=""></a>
+                            <a href="#"><img src="<?php
+                                echo PATH ?>/public/assets/img/products/canon_eos_5d_1.jpg" alt=""></a>
                         </td>
                         <td><a href="#">Canon EOS</a></td>
                         <td>1</td>
@@ -86,7 +92,8 @@
                     </tr>
                     <tr>
                         <td>
-                            <a href="#"><img src="<?= PATH ?>/public/assets/img/products/hp_1.jpg" alt=""></a>
+                            <a href="#"><img src="<?php
+                                echo PATH ?>/public/assets/img/products/hp_1.jpg" alt=""></a>
                         </td>
                         <td><a href="#">HP</a></td>
                         <td>1</td>
@@ -103,17 +110,19 @@
     </div>
 </div>
 
-<?php $this->getDbLogs(); ?>
+<?php
+$this->getDbLogs(); ?>
 
 <script>
-    const PATH = '<?= PATH ?>';
+    const PATH = '<?php echo PATH ?>';
 </script>
-<script src="<?= PATH ?>/public/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="<?php
+echo PATH ?>/public/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"
         integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
         crossorigin="anonymous"></script>
-<script src="<?= PATH ?>/public/assets/js/jquery.magnific-popup.min.js"></script>
-<script src="<?= PATH ?>/public/assets/js/main.js"></script>
+<script src="<?php
+echo PATH ?>/public/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="<?php
+echo PATH ?>/public/assets/js/main.js"></script>
 
-</body>
-</html>

@@ -1,6 +1,7 @@
 <?php
 
 namespace app\controllers;
+
 use app\models\Main;
 use RedBeanPHP\R;
 
@@ -13,7 +14,9 @@ class MainController extends AppController
     public function indexAction()
     {
         $slides = R::findAll('slider');
-        $this->set(compact('slides'));
+        $products = $this->model->get_hits(1, 3);
+//        debug($products,1);
+        $this->set(compact('slides', 'products'));
     }
 }
 
