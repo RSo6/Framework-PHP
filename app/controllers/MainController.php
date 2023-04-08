@@ -5,8 +5,6 @@ namespace app\controllers;
 use app\models\Main;
 use RedBeanPHP\R;
 
-//use wfm\Controller;
-//use RedBeanPHP\R;
 
 /** @property Main $model */
 class MainController extends AppController
@@ -17,6 +15,7 @@ class MainController extends AppController
         $products = $this->model->get_hits(1, 3);
 //        debug($products,1);
         $this->set(compact('slides', 'products'));
+        $this->setMeta('MainPage', 'description...', 'keywords...');
     }
 }
 

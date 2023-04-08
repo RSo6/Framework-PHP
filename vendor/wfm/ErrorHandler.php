@@ -66,8 +66,7 @@ class ErrorHandler
         require WWW . '/errors/404.php';
         die;
         }
-      if (DEBUG)
-            { // Якщо увімкнена відкладка
+      if (DEBUG) { // Якщо увімкнена відкладка
         require WWW . '/errors/development.php';
       } else { // Якщо відкладка вимкнена
         require WWW . '/errors/production.php';

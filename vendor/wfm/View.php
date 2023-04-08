@@ -13,6 +13,7 @@ class View
         public $layout = '',
         public $view = '',
         public $meta = [],
+
     )
     {
         if (false !== $this->layout) {
@@ -28,7 +29,6 @@ class View
         // admin\ => admin/
         $prefix = str_replace('\\', '/', $this->route['admin_prefix']);
         $view_file = APP . "/views/{$prefix}{$this->route['controller']}/{$this->view}.php";
-
         if (is_file($view_file)) {
             ob_start();
             require_once $view_file;
@@ -48,31 +48,31 @@ class View
     }
     public function getMeta()
     {
-        $out = '<title>' . h($this->meta['title']) . '</title>' . PHP_EOL;
+        $out = '<title>' . App::$app->getProperty('site_name') . ' :: ' . h($this->meta['title']) . '</title>' . PHP_EOL;
         $out .= '<meta name="description" content="' . h($this->meta['description']) . '">' . PHP_EOL;
         $out .= '<meta name="keywords" content="' . h($this->meta['keywords']) . '">' . PHP_EOL;
         return $out;
     }
 
     public function getDbLogs()//цей метод дістає логи з бази данних;
-    {
-        if (DEBUG) {//якщо дебаг дорівнює 1 тобто тру то викон. наступні дії;
-            $logs = R::getDatabaseAdapter()
-                ->getDatabase()
-                ->getLogger();
-            $logs = array_merge(//функція array_merge - зливає массиви в одне ціле;
-                $logs->grep('SELECT'),
-                $logs->grep('select'),
-                $logs->grep('INSERT'),
-                $logs->grep('UPDATE'),
-                $logs->grep('DELETE')
-            );
-            debug($logs);
+    {//якщо дебаг дорівнює 1 тобто тру то викон. наступні дії;
+        if (DEBUG) {
+                $logs = R::getDatabaseAdapter()
+                    ->getDatabase()
+                    ->getLogger();
+                $logs = array_merge(//функція array_merge - зливає массиви в одне ціле;
+                    $logs->grep('SELECT'),
+                    $logs->grep('select'),
+                    $logs->grep('INSERT'),
+                    $logs->grep('UPDATE'),
+                    $logs->grep('DELETE')
+                );
+                debug($logs);
+            }
         }
 
-    }
 
-    public function getPart($file,$data = null)//дістає певну частину шаблона
+    public function getPart($file, $data = null)//дістає певну частину шаблона
     {
         if (is_array($data)) {
             //дістаємо, після чого ці данні стануть доступні у підкл. шаблоні

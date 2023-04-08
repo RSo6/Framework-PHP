@@ -32,7 +32,7 @@ use wfm\View;
             <div class="row justify-content-between">
                 <div class="col">
                     <a href="tel:+38(071)8317500">
-                        <span class="icon-phone">&#9743;</span> +38(071)8317500
+                        <span class="icon-phone"><img src="/public/uploads/smartphone.png"></span> +38(071)8317500
                     </a>
                 </div>
                 <div class="col text-end icons">
@@ -64,12 +64,12 @@ use wfm\View;
 
                     <div class="dropdown d-inline-block">
                         <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">
-                            <img src="<?= PATH ?>/public/assets/img/ua.png" alt="">
+                            <img src="<?php echo PATH ?>/public/assets/img/ua.png" alt="">
                         </a>
                         <ul class="dropdown-menu" id="languages">
                             <li>
                                 <button class="dropdown-item" data-langcode="en">
-                                    <img src="<?= PATH ?>/public/assets/img/sss.png" alt="">
+                                    <img src="<?php echo PATH ?>/public/assets/img/sss.png" alt="">
                                     English</button>
                             </li>
                         </ul>
@@ -85,7 +85,8 @@ use wfm\View;
 
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid p-0">
-                    <a class="navbar-brand" href="index.html">ModernShop</a>
+                    <a class="navbar-brand" href="/"><?php echo \wfm\App::$app->getProperty
+                        ('site_name') ?></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>

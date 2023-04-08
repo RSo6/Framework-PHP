@@ -52,7 +52,6 @@ class Router
                 // створюємо об'єкт контроллера
                 /** @var Controller $controller_object */
                 $controller_object = new $controller(self::$route);
-
                 $controller_object->getModel();
                 // формуємо action (метод) з отриманого URL або ж по замовчуванню
                 $action = self::lowerCamelCase(self::$route['action'] . 'Action');
@@ -61,7 +60,7 @@ class Router
                     // викликаємо action (метод)
                     $controller_object->$action();
                     $controller_object->getView();
-//                debug($controller_object);
+//                debug(self::matchRoute($url));
                 } else {
                     throw new \Exception("Method {$controller}::{$action} Not Found", 404);
                 }

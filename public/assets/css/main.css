@@ -7,7 +7,7 @@ body {
 	font-size: 14px;
 	line-height: 27px;
 	font-weight: 400;
-	color: #000;
+	color: #ffffff;
 	background-color: #000000;
 	min-width: 320px;
 	padding-top: 135px;
@@ -20,7 +20,7 @@ img{
 
 a {
 	text-decoration: none;
-	color: midnightblue;
+	color: #c1b795;
 	transition: all .5s;
 }
 
@@ -40,7 +40,7 @@ section {
 .section-title {
 	overflow: hidden;
 	text-transform: uppercase;
-	color: #FFFFFF;
+	color: #b57809;
 	margin-bottom: 30px;
 	text-align: center;
 }
@@ -61,7 +61,7 @@ section {
 	width: 90%;
 	height: 1px;
 	background: #000;
-	border: solid #fff;
+	border: solid #b57809;
 	border-width: 0 10px;
 }
 
@@ -100,7 +100,7 @@ section {
 a:hover,
 a:focus{
 	text-decoration: none;
-	color: #000;
+	color: #b57809;
 }
 
 li a.dropdown-item {
@@ -126,7 +126,7 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 
 /* Header top */
 .header-top {
-	background-color: #6a5c4d;
+	background-color: #271d02;
 	position: relative;
 }
 
@@ -181,7 +181,7 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 	background-color: midnightblue;
 	color: #fff;
 }
-
+#b57809
 .modal-body img {
 	max-width: 100px;
 }
@@ -193,19 +193,19 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 
 /* Header bottom */
 .header-bottom {
-	background-color: #221515;
-	box-shadow: 0 5px 5px -5px rgba(0,0,0,.5);
+	background-color: #000000;
+	box-shadow: 0 5px 5px -5px rgb(97, 64, 14);
 }
 
 .header-bottom .navbar-nav li a.nav-link {
-    color: #000;
+    color: #b57809;
     font-size: 13px;
     font-weight: 500;
     text-transform: uppercase;
 }
 
 .header-bottom .navbar-nav li a.nav-link:hover {
-    color: #221515;
+    color: #b57809;
 }
 
 .navbar-toggler:focus {
@@ -213,12 +213,12 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 }
 
 .navbar-light .navbar-brand {
-	color: #221515;
+	color: #b57809;
 	font-weight: 700;
 }
 
 .navbar-light .navbar-brand:hover {
-	color: #221515;
+	color: darkred;
 }
 /* Header bottom */
 
@@ -275,7 +275,7 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
     font-size: 15px;
     line-height: 22px;
     margin-bottom: 18px;
-    color: #999;
+    color: #5656a1;
     height: 44px;
     overflow: hidden;
 }
@@ -288,7 +288,7 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 
 .product-price {
     font-size: 18px;
-    color: midnightblue;
+    color: #b57809;
     font-weight: 600;
 }
 
@@ -315,7 +315,7 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 
 .service-item i {
 	font-size: 70px;
-	color: red;
+	color: #b57809;
 }
 
 .service-item p {
@@ -324,8 +324,8 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 }
 
 .service-item::before {
-	border-bottom: 1px solid  red;
-	border-left: 1px solid  red;
+	border-bottom: 1px solid #031b5c;
+	border-left: 1px solid #031b5c;
 	-webkit-transform-origin: 0 100%;
 }
 
@@ -355,24 +355,26 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 
 /* Footer */
 .footer {
-	background-color: #343434;
+	background-color: #000000;
 }
 
 .footer h4 {
-	color: #ccc;
+	color: #b57809;
 	text-transform: uppercase;
 	font-size: 16px;
-	border-bottom: 1px solid #666;
+	border-bottom: 1px solid midnightblue;
+	border-bottom: 1px solid darkred;
 	padding-bottom: 3px;
 }
 
+
 .footer a, .footer li {
-	color: #c8c8c8;
+	color: #5656a1;
 }
 
 .footer a:hover {
-	color: #fff;
-	text-decoration: underline;
+	color: #b57809;
+	text-decoration: #b57809;
 }
 
 .footer ul li a {
@@ -391,8 +393,8 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 	position: fixed;
 	bottom: 20px;
 	right: 20px;
-	background-color:  red;
-	color: #fff;
+	background-color: #000000;
+	color: #b57809;
 	width: 70px;
 	height: 70px;
 	border-radius: 50%;
@@ -524,7 +526,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
 	}
 	.product-price {
 		font-size: 15px;
-		color: midnightblue;
+		color: #b57809;
 		font-weight: 400;
 	}
 }

@@ -10,26 +10,26 @@ use wfm\View;
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-6">
-                    <h4>Информация</h4>
+                    <h4>Інформація</h4>
                     <ul class="list-unstyled">
-                        <li><a href="#">Главная</a></li>
-                        <li><a href="#">О магазине</a></li>
-                        <li><a href="#">Оплата и доставка</a></li>
-                        <li><a href="#">Контакты</a></li>
+                        <li><a href="#">Головна</a></li>
+                        <li><a href="#">Про магазин</a></li>
+                        <li><a href="#">Оплата і доставка</a></li>
+                        <li><a href="#">Контакти</a></li>
                     </ul>
                 </div>
 
                 <div class="col-md-3 col-6">
-                    <h4>Время работы</h4>
+                    <h4>Час роботи</h4>
                     <ul class="list-unstyled">
-                        <li>г. Киев, ул. Пушкина, 10</li>
+                        <li>г. КиЇв, вул. Пушкіна, 10</li>
                         <li>пн-вс: 9:00 - 18:00</li>
-                        <li>без перерыва</li>
+                        <li>без переривів</li>
                     </ul>
                 </div>
 
                 <div class="col-md-3 col-6">
-                    <h4>Контакты</h4>
+                    <h4>Контакти</h4>
                     <ul class="list-unstyled">
                         <li><a href="tel:+38(071)8317500">+38(071)8317500</a></li>
                         <li><a href="tel:+38(071)8317500">+38(071)8317500</a></li>
@@ -38,7 +38,7 @@ use wfm\View;
                 </div>
 
                 <div class="col-md-3 col-6">
-                    <h4>Мы в сети</h4>
+                    <h4>Ми в мережі</h4>
                     <div class="footer-icons">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-youtube"></i></a>
@@ -67,8 +67,8 @@ use wfm\View;
                     <tr>
                         <th scope="col">Фото</th>
                         <th scope="col">Товар</th>
-                        <th scope="col">Кол-во</th>
-                        <th scope="col">Цена</th>
+                        <th scope="col">К-сть</th>
+                        <th scope="col">Ціна</th>
                     </tr>
                     </thead>
                     <tbody>

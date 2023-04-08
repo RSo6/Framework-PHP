@@ -3,7 +3,7 @@
 return [
     'admin_email' => 'admin@new-myshop.loc',
 
-    'site_name' => 'E-Shop',
+    'site_name' => 'ModernShop',
 
     'pagination' => 2,
 ];
