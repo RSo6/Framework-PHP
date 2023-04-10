@@ -16,10 +16,13 @@ class AppController extends Controller
         new AppModel();
         //Всі мови у нас будуть знаходитись в контейнері
         //setProperty - функція яка дозволяє записати щось в контейнер, у нашому випадку це всі мови
-        //і массив мов повертає метод віджета getLangugesList - список мов
-        App::$app->setProperty('languages', Language::getLangugesList());
-        debug(App::$app->getProperty('languages'));
-
+        //і массив мов повертає метод віджета getLanguagesList - список мов
+        App::$app->setProperty('languages', Language::getLanguagesList());//тут всі доступні мови для користувача
+        // ⊻ тут буде знаходитись мова по замовчуванню або так що вибрав кінцевий користувач
+        App::$app->setProperty('language', Language::getLanguage(App::$app->getProperty('languages')));
+//        debug(App::$app->getProperty('languages'));
+//        debug(App::$app->getProperty('languages'));
+//        debug(App::$app->getProperty('language'));
     }
 
 }

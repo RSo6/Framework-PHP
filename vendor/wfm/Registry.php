@@ -1,9 +1,14 @@
 <?php
 
+
 namespace wfm;
+
+
+
 
 class Registry
 {
+
     use TSingleton;
 
     protected static array $properties = [];

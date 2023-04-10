@@ -17,11 +17,11 @@ class ErrorHandler
         register_shutdown_function([$this, 'fatalErrorHandler']);
         }
 
-    public function errorHandler($errNum, $errStr, $errFile, $errLine)
+    public function errorHandler($err_num, $err_str, $err_file, $err_line)
         {
-        $this->logError($errStr, $errFile, $errLine);
+        $this->logError($err_str, $err_file, $err_line);
         $this->displayError
-        ($errNum, $errStr, $errFile, $errLine);
+        ($err_num, $err_str, $err_file, $err_line);
         }
 
     public function fatalErrorHandler()
@@ -56,7 +56,7 @@ class ErrorHandler
     } //3.ARGUMENT: FILE_APPEND  - означає що дані будуть дозаписуватись в кінець файлу;
 
 
-    protected function displayError($errNum, $errStr, $errFile, $errLine, $responce = 500)
+    protected function displayError($err_num, $err_str, $err_file, $err_line, $responce = 500)
     {
       if ($responce == 0) {
         $responce = 404;

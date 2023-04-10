@@ -12,7 +12,7 @@ use wfm\View;
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <base href="/">
+    <base href="<?php echo baseUrl(); ?>">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="<?php echo PATH ?>/public/assets/bootstrap/css/bootstrap.min.css">
@@ -61,19 +61,8 @@ use wfm\View;
                             <li><a class="dropdown-item" href="#">Регістрація</a></li>
                         </ul>
                     </div>
+                        <?php new \app\widgets\language\Language()?>
 
-                    <div class="dropdown d-inline-block">
-                        <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">
-                            <img src="<?php echo PATH ?>/public/assets/img/ua.png" alt="">
-                        </a>
-                        <ul class="dropdown-menu" id="languages">
-                            <li>
-                                <button class="dropdown-item" data-langcode="en">
-                                    <img src="<?php echo PATH ?>/public/assets/img/sss.png" alt="">
-                                    English</button>
-                            </li>
-                        </ul>
-                    </div>
 
                 </div>
             </div>
@@ -85,7 +74,7 @@ use wfm\View;
 
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid p-0">
-                    <a class="navbar-brand" href="/"><?php echo \wfm\App::$app->getProperty
+                    <a class="navbar-brand" href="<?php echo baseUrl(); ?>"><?php echo \wfm\App::$app->getProperty
                         ('site_name') ?></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>

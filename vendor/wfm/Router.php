@@ -46,6 +46,10 @@ class Router
         // перевірка з правилами маршрутизації
 
         if (self::matchRoute($url)) { // формуємо простір імен з отриманого URL
+           if (!empty(self::$route['lang'])) {
+               App::$app->setProperty('lang', (self::$route['lang']));
+
+           };
             $controller = 'app\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
             // перевірка, чи autoloader побачив такий класс
             if (class_exists($controller)) {
@@ -106,7 +110,7 @@ class Router
         }
 
         return false;
-    }
+}
 
     //CamelCase
     protected static function upperCamelCase($name): string

@@ -1,3 +1,6 @@
+<?php
+use wfm\App;
+?>
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
@@ -13,12 +16,12 @@
 </head>
 <body>
 <div class="scene">
-    <div class="box">
-        <div class= "box__face front">4</div>
+    <div class = "box">
+        <div class = "box__face front">4</div>
         <div class = "box__face back">0</div>
         <div class = "box__face right">4</div>
-        <div class= "box__face left">0</div>
-        <div class= "box__face top">Error</div>
+        <div class = "box__face left">0</div>
+        <div class = "box__face top">Error</div>
         <div class= "box__face bottom">0</div>
     </div>
     <div class="shadow"></div>
@@ -30,3 +33,6 @@
 
 </body>
 </html>
+
+
+

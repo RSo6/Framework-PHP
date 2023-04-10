@@ -49,10 +49,12 @@ html,
     .box__face.front {
         transform: rotateY(0deg) translateZ(100px);
         background: #20162b;
+
     }
     .box__face.back {
         transform: rotateY(90deg) translateZ(100px);
         background: #130d1a;
+
     }
     .box__face.right {
         transform: rotateY(180deg) translateZ(100px);
@@ -67,6 +69,8 @@ html,
         background: #130d1a;
         font-size: 60px !important;
     }
+
+
     .box__face.bottom {
         transform: rotateX(-90deg) translateZ(100px);
         background: black;
