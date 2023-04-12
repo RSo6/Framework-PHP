@@ -8,15 +8,17 @@ class LanguageController extends AppController
 {
 
     public function changeAction()
-    {
-        $lang = $_GET['lang'] ?? null;//txt N:2
-        if ($lang) { //txt N:3
-            if (array_key_exists($lang, App::$app->getProperty('languages'))) { //txt N:4;
+    {//txt N:2
+ // lang = код мови(lang=en)
+        $lang = get('lang', 's');
+//        debug($lang, 1);
+        if ($lang) { //txt N:3 , якщо щось прийшло в $lang
+            if (array_key_exists($lang, App::$app->getProperty('languages')) && isset($_SERVER['HTTP_REFERER'])) { //txt N:4; перевіка чи є наш lang(ключ) в спискові доступних мов
                 $url = trim(str_replace
                 (//txt N:5;
-                    PATH,'',
-                    $_SERVER['HTTP_REFERER']),
-                    '/'
+                    PATH,'',//замінили PATH на пустий рядок
+                    $_SERVER['HTTP_REFERER']),//з цього адресу ми прийшли
+                    '/' //trimнули слеші
                 );
                 $url_parts = explode( //txt N:6
                     '/',

@@ -15,6 +15,6 @@ class Main extends AppModel  //legacy of the base model
                  WHERE p.status = 1 
                  AND p.hit = 1  
                  AND pd. language_id = ? 
-                 LIMIT $limit", [$lang]);
+                 LIMIT $limit", [$lang['id']]);
     }
 }
