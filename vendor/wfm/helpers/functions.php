@@ -1,9 +1,8 @@
 <?php
 
-function debug($data, $die = false)
+function debug($data, $die = false)// просто функція для гарного виводу на екран
 {
     echo '<pre>' . print_r($data, 1) . '</pre>';
-
     if ($die) {
         die;
     }
@@ -25,23 +24,21 @@ function redirect($http = false)
      die;//закінчуємо наступне виконання коду
 }
 
-
 function baseUrl()
 {
     // PATH = http://new-myshop.loc + / + en + / якщо такого нема то додамо пустий рядок
     return PATH . '/' .(\wfm\App::$app->getProperty('lang') ? \wfm\App::$app->getProperty('lang') . '/' : '');
 }
+
 /**
- * @param string $key key of GET array
- * @param string $type Value 'i', 'f, 's'
+ * @param string $key Key of GET array
+ * @param string $type Values 'i', 'f', 's'
  * @return float|int|string
  */
-//get('page')
-//$_GET['page'}
 function get($key, $type = 'i')
 {
     $param = $key;
-    $$param  = $_GET[$param] ?? '';//$page = $_GET['page'] ?? '';
+    $$param = $_GET[$param] ?? '';//$page = $_GET['page'] ?? ''
     if ($type == 'i') {
         return (int)$$param;
     } elseif ($type == 'f') {
@@ -50,13 +47,11 @@ function get($key, $type = 'i')
         return trim($$param);
     }
 }
-
 /**
- * @param string $key key of POST array
- * @param string $type Value 'i', 'f, 's'
+ * @param string $key Key of POST array
+ * @param string $type Values 'i', 'f, 's'
  * @return float|int|string
  */
-
 function post($key, $type = 's')
 {
     $param = $key;
@@ -69,3 +64,14 @@ function post($key, $type = 's')
         return trim($$param);
     }
 }
+
+function __($key)
+    {
+        echo \wfm\Language::get($key);
+    }
+
+ function ___($key)
+    {
+        return \wfm\Language::get($key);
+    }
+

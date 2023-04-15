@@ -5,65 +5,51 @@ namespace app\widgets\language;
 use RedBeanPHP\R;
 use wfm\App;
 
-
 class Language
 {
-    protected $tpl;//тут зберігається шаблон(зовнішній вид) який реалізує данний віджет
-    protected $languages;
-    //тут зберігаємо всі наявні мови, з методу: public static function getLanguagesList(): array
-    protected $language;
 
-    //тут ми зберігаємо поточну мову, яку вибрав користувач, з методу: public static function getLanguage($languages)ж
+    protected $tpl;
+    protected $languages;
+    protected $language;
 
     public function __construct()
     {
-        $this->tpl = __DIR__ . '/lang_tpl.php'; //шлях до шаблону
-        $this->run();                           //викликаємо метод run
+        $this->tpl = __DIR__ . '/lang_tpl.php';
+        $this->run();
     }
 
     protected function run()
-      //отримує $languages i $language;
-    { //і записує в них інформацію про всі наявні мови та про поточну мову
-        $this->languages = App::$app->getProperty('languages');//всі наявні мови
-        $this->language = App::$app->getProperty('language');//поточна мова
-        // і все це ми беремо з классу AppController
+    {
+        $this->languages = App::$app->getProperty('languages');
+        $this->language = App::$app->getProperty('language');
         echo $this->getHtml();
     }
 
-    public static function getLanguagesList(): array
-        //отримує повністю весь список мов,
-    {   //метод getAssoc повертає ассоціативний массив,
-        //дані із таблиці language в нашій DB,
-        //ORDER BY base DESC - сортуємо(ORDER BY) ключ (base), (DESC)в зворотньому порядку
+    public static function getLanguages(): array
+    {
         return R::getAssoc("SELECT code, title, base, id FROM language ORDER BY base DESC");
     }
 
-        //мови складуються в конструкторі в  класі AppController.php
     public static function getLanguage($languages)
-        //отримує з url адресу (код мови), і повертає мову яка вибрана користувачем, також перевіряє чи є в наявності обрана мова
     {
-        $lang = App::$app->getProperty('lang');//тут ми хочемо отримати з контейнера данні про мову
-        if ($lang && array_key_exists($lang, $languages)) { //перевірка чи існує вибрана мова в списку доступних мов
-            $key = $lang;//якщо мова існує то ми кладемо її в перемінну $key
-
-        } elseif (!$lang) { //перевірка якщо в нас немає вибраної користувачем мови
-            $key = key($languages);//функція key забирає поточний ключ массиву,
-            //тобто ми встановлюємо мову під замовчуванням яка знаходиться під ключем [base] => 1(в нашому випадку ua)
-
+        $lang = App::$app->getProperty('lang');
+        if ($lang && array_key_exists($lang, $languages)) {
+            $key = $lang;
+        } elseif (!$lang) {
+            $key = key($languages);
         } else {
-            $lang = h($lang); //якщо мова не існує то викидуємо помилку
-            throw new \Exception("Not found LanguageController {$lang}", 404);
+            $lang = h($lang);
+            throw new \Exception("Not found language {$lang}", 404);
         }
-//        print_r($key);
 
-        $lang_info = $languages[$key];//витягуємо всю інформацію про мову по коду $key
+        $lang_info = $languages[$key];
         $lang_info['code'] = $key;
-        return $lang_info;// і повертаємо цю інформацію
+        return $lang_info;
     }
 
     protected function getHtml(): string
     {
-        ob_start();//вмикаємо буферизацію виведення
+        ob_start();
         require_once $this->tpl;
         return ob_get_clean();
     }

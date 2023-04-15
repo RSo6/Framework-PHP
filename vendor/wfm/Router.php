@@ -1,31 +1,33 @@
 <?php
 
+
 namespace wfm;
+
 
 class Router
 {
-    protected static array $routes = [];
-    protected static array $route = [];
 
-    public static function add($regexp, $route = [])
-    {
-        self::$routes[$regexp] = $route;
+    protected static array $routes = [];//тут зберігається таблиця маршрутів
+    protected static array $route = [];//конкретно один маршрут з яким було знайдено співпадіння
+
+    public static function add($regexp, $route = [])//за допомогою цього метода додаємо данні в $routes
+    { //1 Аргумент шабон regexp який описує той чи інший url адрес, $route - співпадіння
+        self::$routes[$regexp] = $route;//в таблицю маршрутів(по ключу $regexp) додаєм те що прийшло в $route
     }
 
     public static function getRoutes(): array
     {
-        return self::$routes;
+        return self::$routes; //повертає всі наші маршрути
     }
 
     public static function getRoute(): array
     {
-        return self::$route;
+        return self::$route; //повертає конкретний маршрут
     }
 
-    protected static function removeQueryString($url)
+    protected static function removeQueryString($url) //
     {
-        // перевіряємо, чи є шлях загалом
-        if ($url) {
+        if ($url) { // перевіряємо, чи є шлях загалом
             // розбиваємо шлях по амперсанту (маркер $_GET параметрів)
             $params = explode('&', $url, 2);
             /*	перевіряємо, чи немає в 0-му (першому) массиві після розбивки пари "ключ=значення"
@@ -39,10 +41,10 @@ class Router
         return '';
     }
 
-    public static function dispatch($url)
+    public static function dispatch($url)//приймає url адресу
     {
         // отримуємо чистий URL без GET
-        $url = self::removeQueryString($url);
+        $url = self::removeQueryString($url);//:: розширює область видимості
         // перевірка з правилами маршрутизації
 
         if (self::matchRoute($url)) { // формуємо простір імен з отриманого URL

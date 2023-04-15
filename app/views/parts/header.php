@@ -1,31 +1,24 @@
 <?php
-
 use wfm\View;
-
 /** @var $this View */
-
 ?>
 <!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <base href="<?php echo baseUrl(); ?>">
+    <base href="<?php echo baseUrl() ?>">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="<?php echo PATH ?>/public/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo PATH ?>/assets/bootstrap/css/bootstrap.min.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
-    <link rel="stylesheet" href="<?php echo PATH ?>/public/assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="<?php echo PATH ?>/public/assets/css/main.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="<?= PATH ?>/public/assets/img/ddd.png">
-    <?php echo $this->getMeta() ?>
-    <?php echo $this->getMeta() ?>
+    <link rel="stylesheet" href="<?php echo PATH ?>/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="<?php echo PATH ?>/assets/css/main.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="<?php echo PATH ?>/assets/img/favicon.png">
+    <?= $this->getMeta() ?>
 </head>
 <body>
+
 <header class="fixed-top">
     <div class="header-top py-3">
         <div class="container">
@@ -38,7 +31,7 @@ use wfm\View;
                 <div class="col text-end icons">
                     <form>
                         <div class="input-group" id="search">
-                            <input type="text" class="form-control" placeholder="Search..." name="s">
+                            <input type="text" class="form-control" placeholder="<?php __('tpl_search'); ?>" name="s">
                             <button class="btn close-search" type="button"><i class="fas fa-times"></i></i></button>
                             <button class="btn" type="submit"><i class="fas fa-search"></i></button>
                         </div>
@@ -57,12 +50,12 @@ use wfm\View;
                             <i class="far fa-user"></i>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Авторизація</a></li>
-                            <li><a class="dropdown-item" href="#">Регістрація</a></li>
+                            <li><a class="dropdown-item" href="#"><?php __('tpl_login'); ?></a></li>
+                            <li><a class="dropdown-item" href="#"><?php __('tpl_signup'); ?></a></li>
                         </ul>
                     </div>
-                        <?php new \app\widgets\language\Language()?>
 
+                    <?php new \app\widgets\language\Language() ?>
 
                 </div>
             </div>
@@ -74,8 +67,7 @@ use wfm\View;
 
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid p-0">
-                    <a class="navbar-brand" href="<?php echo baseUrl(); ?>"><?php echo \wfm\App::$app->getProperty
-                        ('site_name') ?></a>
+                    <a class="navbar-brand" href="<?php echo baseUrl() ?>"><?php echo \wfm\App::$app->getProperty('site_name') ?></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -83,14 +75,14 @@ use wfm\View;
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link" href="category.html">Комп'ютери</a>
+                                <a class="nav-link" href="category.html"> <?php __('main_index_products_category_COMP'); ?></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="category.html">Планшети</a>
+                                <a class="nav-link" href="category.html"> <?php __('main_index_products_category_TABL'); ?></a>
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Ноутбуки
+                                    <?php __('main_index_products_category_LAPTOP'); ?>
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="category.html">Mac</a></li>
@@ -98,10 +90,10 @@ use wfm\View;
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="category.html">Телефони</a>
+                                <a class="nav-link" href="category.html"> <?php __('main_index_products_category_PHONE'); ?></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="category.html">Камери</a>
+                                <a class="nav-link" href="category.html"> <?php __('main_index_products_category_Cameras'); ?></a>
                             </li>
                         </ul>
                     </div>
@@ -112,5 +104,3 @@ use wfm\View;
         </div>
     </div><!-- header-bottom -->
 </header>
-</body>
-</html>

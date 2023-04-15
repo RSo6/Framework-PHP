@@ -9,11 +9,11 @@ class App
 
     public function __construct()
     {
-        $query = trim(urldecode($_SERVER['QUERY_STRING']), '/');
+        $query = trim(urldecode($_SERVER['QUERY_STRING']), '/');//берем поточний запит, трімимо кінцеві слеші і записуємо в перемінну $query
         new ErrorHandler();
-        self::$app = Registry::getInstance();
+        self::$app = Registry::getInstance();//:: розширює область видимості
         $this->getParams();
-        Router::dispatch($query);
+        Router::dispatch($query);//викликаємо метод dispatch і кладемо в нього перемінну $query
     }
     protected function getParams()
     {

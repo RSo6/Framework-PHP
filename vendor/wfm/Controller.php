@@ -5,6 +5,8 @@ namespace wfm;
 abstract class Controller
 {
 
+
+
     public array $data = [];
     public array $meta = ['title' => '', 'keywords' => '', 'description' => ''];
     public false|string $layout = '';

@@ -18,7 +18,7 @@ class Db
     {
         // CONFIG point on folder /config
         $db = require_once CONFIG . '/config_db.php';// connection settings
-        R::setup($db['dsn'], $db['user'], $db['password']);// we are connected to db,
+        R::setup($db['dsn'], $db['user'], $db['password']);// we are connected to db,:: розширює область видимості
         // which described in file "/config.db.php", with using method 'setup';
         if (!R::testConnection()) {
             // we verify status of connection,
