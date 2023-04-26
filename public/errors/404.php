@@ -28,7 +28,7 @@ use wfm\App;
 </div>
 <div class="desc">
     <h2>Ooops page not found!</h2>
-    <button href="<?php echo PATH; ?>" class = "btn">BACK TO HOME</button>
+    <button href="<?php echo PATH ?>" class = "btn">BACK TO HOME</button>
 </div>
 
 </body>

@@ -17,10 +17,11 @@ class AppController extends Controller
         parent::__construct($route);
         new AppModel();
 
-        App::$app->setProperty('languages', Language::getLanguages());
+        App::$app->setProperty('languages', Language::getLanguagesList());
         App::$app->setProperty('language', Language::getLanguage(App::$app->getProperty('languages')));
 
         $lang = App::$app->getProperty('language');
+//        debug($lang);
         \wfm\Language::load($lang['code'], $this->route);
 
     }

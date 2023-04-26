@@ -22,17 +22,6 @@ return [
     'main_index_footer_nameSecond-contacts' => 'Contacts',
     'main_index_footer_call_numbers' => '+38(071)8317500',
     'main_index_footer_We_in_network' => 'We are online',
-    'main_index_footer_top_cart' => 'Shopping сart',
-    'main_index_footer_top_cart_photo' => 'Photo',
-    'main_index_footer_top_cart_product' => 'Product',
-    'main_index_footer_top_cart_quantity' => 'Q-tity',
-    'main_index_footer_top_cart_price' => 'Price',
-    'main_index_footer_top_cart_continue_shop' => 'Continue shopping',
-    'main_index_footer_top_cart_complete_order' => 'Complete order',
-    'main_index_products_category_COMP' => 'Computers',
-    'main_index_products_category_TABL' => 'Tablets',
-    'main_index_products_category_LAPTOP' => 'Laptops',
-    'main_index_products_category_PHONE' => 'Phones',
-    'main_index_products_category_Cameras' => 'Cameras',
+
 
 ];

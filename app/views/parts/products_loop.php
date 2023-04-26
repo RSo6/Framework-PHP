@@ -17,7 +17,11 @@
                         <?php endif; ?>
                         $<?php echo $product['price'] ?></div>
                     <div class="product-links">
-                        <a href="#"><i class="fas fa-shopping-cart"></i></a>
+                        <a
+                           class = "add-to-cart" href="cart/add?id=<?php echo $product['id']?>"
+                           data-id="<?php echo $product['id'] ?>">
+                            <?php echo getCartIcon($product['id']); ?>
+                        </a>
                         <a href="#"><i class="far fa-heart"></i></a>
                     </div>
                 </div>

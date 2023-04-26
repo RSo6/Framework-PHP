@@ -70,8 +70,17 @@ function __($key)
         echo \wfm\Language::get($key);
     }
 
- function ___($key)
+function ___($key)
     {
         return \wfm\Language::get($key);
     }
 
+function getCartIcon($id)
+{
+    if (!empty($_SESSION['cart']) && array_key_exists($id, $_SESSION['cart'])) {
+        $icon = '<i class="fas fa-luggage-cart"></i>';
+    } else {
+        $icon = '<i class="fas fa-shopping-cart"></i>';
+    }
+    return $icon;
+}

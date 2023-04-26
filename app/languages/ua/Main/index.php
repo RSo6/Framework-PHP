@@ -22,18 +22,6 @@ return [
     'main_index_footer_nameSecond-contacts' => 'Контакти',
     'main_index_footer_call_numbers' => '+38(071)8317500',
     'main_index_footer_We_in_network' => 'Ми в мережі',
-    'main_index_footer_top_cart' => 'Кошик',
-    'main_index_footer_top_cart_photo' => 'Фото',
-    'main_index_footer_top_cart_product' => 'Товар',
-    'main_index_footer_top_cart_quantity' => 'К-сть',
-    'main_index_footer_top_cart_price' => 'Ціна',
-    'main_index_footer_top_cart_continue_shop' => 'Продовжити покупки',
-    'main_index_footer_top_cart_complete_order' => 'Оформити замовлення',
-    'main_index_products_category_COMP' => "Комп'ютери",
-    'main_index_products_category_TABL' => 'Планшети',
-    'main_index_products_category_LAPTOP' => 'Ноутбуки',
-    'main_index_products_category_PHONE' => 'Телефони',
-    'main_index_products_category_Cameras' => 'Камери',
 
 
 ];

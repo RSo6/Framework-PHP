@@ -10,6 +10,7 @@ class App
     public function __construct()
     {
         $query = trim(urldecode($_SERVER['QUERY_STRING']), '/');//берем поточний запит, трімимо кінцеві слеші і записуємо в перемінну $query
+        session_start();
         new ErrorHandler();
         self::$app = Registry::getInstance();//:: розширює область видимості
         $this->getParams();

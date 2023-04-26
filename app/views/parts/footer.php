@@ -55,51 +55,10 @@ use wfm\View;
     <div class="modal-dialog modal-xl">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel"><?php __('main_index_footer_top_cart'); ?></h5>
+                <h5 class="modal-title" id="exampleModalLabel"><?php __('tpl_footer_top_cart'); ?></h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
-            <div class="modal-body">
-                <table class="table text-start">
-                    <thead>
-                    <tr>
-                        <th scope="col"><?php __('main_index_footer_top_cart_photo'); ?></th>
-                        <th scope="col"><?php __('main_index_footer_top_cart_product'); ?></th>
-                        <th scope="col"><?php __('main_index_footer_top_cart_quantity'); ?></th>
-                        <th scope="col"><?php __('main_index_footer_top_cart_price'); ?></th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <td>
-                            <a href="#"><img src="<?php echo PATH ?>/assets/img/products/apple_cinema_30.jpg" alt=""></a>
-                        </td>
-                        <td><a href="#">Apple cinema</a></td>
-                        <td>1</td>
-                        <td>100</td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a href="#"><img src="<?php echo PATH ?>/assets/img/products/canon_eos_5d_1.jpg" alt=""></a>
-                        </td>
-                        <td><a href="#">Canon EOS</a></td>
-                        <td>1</td>
-                        <td>100</td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a href="#"><img src="<?php echo PATH ?>/assets/img/products/hp_1.jpg" alt=""></a>
-                        </td>
-                        <td><a href="#">HP</a></td>
-                        <td>1</td>
-                        <td>100</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-danger ripple" data-bs-dismiss="modal"><?php __('main_index_footer_top_cart_continue_shop'); ?></button>
-                <button type="button" class="btn btn-primary"><?php __('main_index_footer_top_cart_complete_order'); ?></button>
-            </div>
+          <div class="modal-cart-content"></div>
         </div>
     </div>
 </div>

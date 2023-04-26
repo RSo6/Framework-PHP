@@ -38,9 +38,9 @@ use wfm\View;
                     </form>
                     <a href="#" class="open-search"><i class="fas fa-search"></i></a>
 
-                    <a href="#" class="relative" data-bs-toggle="modal" data-bs-target="#cart-modal">
+                        <a href="#" class="relative" id="get-cart" data-bs-toggle="modal" data-bs-target="#cart-modal">
                         <i class="fas fa-shopping-cart"></i>
-                        <span class="badge bg-danger rounded-pill count-items">0</span>
+                        <span class="badge bg-danger rounded-pill count-items"><?php echo $_SESSION['cart.qty'] ?? 0 ?></span>
                     </a>
 
                     <a href="#"><i class="far fa-heart"></i></a>
@@ -73,29 +73,11 @@ use wfm\View;
                     </button>
 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                            <li class="nav-item">
-                                <a class="nav-link" href="category.html"> <?php __('main_index_products_category_COMP'); ?></a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="category.html"> <?php __('main_index_products_category_TABL'); ?></a>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    <?php __('main_index_products_category_LAPTOP'); ?>
-                                </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="category.html">Mac</a></li>
-                                    <li><a class="dropdown-item" href="category.html">Windows</a></li>
-                                </ul>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="category.html"> <?php __('main_index_products_category_PHONE'); ?></a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="category.html"> <?php __('main_index_products_category_Cameras'); ?></a>
-                            </li>
-                        </ul>
+                        <?php new \app\widgets\menu\Menu([
+                            'class' => 'navbar-nav ms-auto mb-2 mb-lg-0',
+                            'cache' => 30,
+                        ]) ?>
+
                     </div>
 
                 </div>
