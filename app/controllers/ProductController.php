@@ -4,11 +4,33 @@
 namespace app\controllers;
 
 
+use app\models\Product;
+use wfm\App;
+
+/** @property Product $model*/
+
 class ProductController extends AppController
 {
 
     public function viewAction()
     {
+        $lang = App::$app->getProperty('language');
+        $product = $this->model->getProduct($this->route['slug'], $lang);
+//        debug($product, 1);
+        if (!$product) {
+            throw new \Exception("Продукт по запиту {$this->route['slug']} не знайдено", 404);
+        }
+//        debug($product);
+
+        $gallery = $this->model->getGallery($product['id']);
+//        debug($gallery);
+        $this->setMeta($product['title'], $product['description'], $product['keywords']);
+        $this->set(compact('product', 'gallery'));
+        // array { приклад функції компакт
+        //[product] => 'gallery'
+        //       }
+
+
 
     }
 
