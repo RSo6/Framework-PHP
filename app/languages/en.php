@@ -27,4 +27,5 @@ return [
     'tpl_footer_nameSecond-contacts' => 'Контакти',
     'tpl_footer_call_numbers' => '+38(071)8317500',
     'tpl_footer_We_in_network' => 'Ми в мережі',
+    'tpl_home_bread_crumbs' => '<i class="fas fa-home"></i>',
 ];

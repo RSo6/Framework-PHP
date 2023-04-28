@@ -10,7 +10,7 @@ function debug($data, $die = false)// просто функція для гар�
 
 function h($str)
 {
-    return htmlspecialchars($str);
+    return $str ? htmlspecialchars($str) : '';
 }
 
 function redirect($http = false)

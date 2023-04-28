@@ -45,13 +45,14 @@ class Menu
         $this->menu_html = $cache->get("{$this->cache_key}_{$this->language['code']}");
         //зверху ми хочемо дістати дані по ключу і коду мову
         if (!$this->menu_html) {//якщо нема, тоді
-            $this->data = R::getAssoc( //в дата ми забираємо всі: категорії їх опис із урахуванням мови
-               "SELECT c.*, cd.* FROM category 
-                c JOIN category_description cd
-                ON c.id = cd.category_id
-                WHERE cd.language_id = ?",
-                [$this->language['id']]
-            );//якщо ми забрали данні з кешу тоді переходимо в низ якщо ні то робимо перевірку
+//            $this->data = R::getAssoc( //в дата ми забираємо всі: категорії їх опис із урахуванням мови
+//               "SELECT c.*, cd.* FROM category
+//                c JOIN category_description cd
+//                ON c.id = cd.category_id
+//                WHERE cd.language_id = ?",
+//                [$this->language['id']]
+            $this->data = App::$app->getProperty("categories_{$this->language['code']}");
+//            );//якщо ми забрали данні з кешу тоді переходимо в низ якщо ні то робимо перевірку
             $this->tree = $this->getTree();//з цього массиву ми формуємо дерево
             $this->menu_html = $this->getMenuHtml($this->tree);
             if ($this->cache) {//якщо в кеші більше нуля

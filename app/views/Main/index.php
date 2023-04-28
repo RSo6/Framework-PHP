@@ -1,5 +1,8 @@
 <?php
+
+
 use wfm\View;
+
 /** @var $this View */
 ?>
 <?php if (!empty($slides)): ?>

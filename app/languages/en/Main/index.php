@@ -22,6 +22,5 @@ return [
     'main_index_footer_nameSecond-contacts' => 'Contacts',
     'main_index_footer_call_numbers' => '+38(071)8317500',
     'main_index_footer_We_in_network' => 'We are online',
-
-
+    'tpl_product_language_toggler_buy' => 'Buy',
 ];

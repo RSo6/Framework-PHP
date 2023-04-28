@@ -10,9 +10,7 @@ use wfm\View;
 <div class="container">
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb bg-light p-2">
-            <li class="breadcrumb-item"><a href="index.html"><i class="fas fa-home"></i></a></li>
-            <li class="breadcrumb-item"><a href="#">Ноутбуки</a></li>
-            <li class="breadcrumb-item active" aria-current="page">MacBook</li>
+            <?php echo $bread_crumbs ?>
         </ol>
     </nav>
 </div>
@@ -40,7 +38,7 @@ use wfm\View;
             <div id="product">
                 <div class="input-group mb-3">
                     <input id="input-quantity" type="text" class="form-control" name="quantity" value="1">
-                    <button class="btn btn-danger add-to-cart" type="button" data-id="<?php echo $product['id'] ?>"><?php __('product_language_toggler_buy') ?></button>
+                    <button class="btn btn-danger add-to-cart" type="button" data-id="<?php echo $product['id'] ?>"><?php __('tpl_product_language_toggler_buy') ?></button>
                 </div>
             </div>
 

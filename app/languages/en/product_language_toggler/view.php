@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'product_language_toggler_buy' => 'Buy',
+    'tpl_product_language_toggler_buy' => 'Buy',
 
 ];

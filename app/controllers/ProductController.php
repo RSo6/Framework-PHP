@@ -4,6 +4,7 @@
 namespace app\controllers;
 
 
+use app\models\BreadCrumbs;
 use app\models\Product;
 use wfm\App;
 
@@ -22,10 +23,12 @@ class ProductController extends AppController
         }
 //        debug($product);
 
+        $bread_crumbs = BreadCrumbs::getBreadCrumbs($product['category_id'], $product['title']);
+//        debug($bread_crumbs);
         $gallery = $this->model->getGallery($product['id']);
 //        debug($gallery);
         $this->setMeta($product['title'], $product['description'], $product['keywords']);
-        $this->set(compact('product', 'gallery'));
+        $this->set(compact('product', 'gallery', 'bread_crumbs'));
         // array { приклад функції компакт
         //[product] => 'gallery'
         //       }
