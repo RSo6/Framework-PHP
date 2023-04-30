@@ -17,7 +17,7 @@ class BreadCrumbs extends AppModel
 //        debug($categories);
 //        debug($bread_crumbs_array);
         //вивід іконки домика і посилання на головну сторінку
-        $bread_crumbs = "<li class='breadcrumb-item'><a href='" . baseUrl() . "'>" . ___('tpl_home_breadcrumbs') . "</a></li>";
+        $bread_crumbs = "<li class='breadcrumb-item'><a href='" . baseUrl() . "'>" . ___('tpl_home_bread_crumbs') . "</a></li>";
         if ($bread_crumbs_array) {
             foreach ($bread_crumbs_array as $slug => $title) {
                 $bread_crumbs .= "<li class='breadcrumb-item'><a href='category/{$slug}'>{$title}</a></li>";

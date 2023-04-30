@@ -6,7 +6,6 @@ abstract class Controller
 {
 
 
-
     public array $data = [];
     public array $meta = ['title' => '', 'keywords' => '', 'description' => ''];
     public false|string $layout = '';
@@ -16,7 +15,6 @@ abstract class Controller
 
     public function __construct(public $route = [])
     {
-
     }
 
     public function getModel()
@@ -40,11 +38,11 @@ abstract class Controller
 
     public function setMeta($title = '', $description = '', $keywords = '')
     {
-       $this->meta = [
-           'title' => $title,
-           'description' => $description,
-           'keywords' => $keywords,
-       ];
+        $this->meta = [
+            'title' => $title,
+            'description' => $description,
+            'keywords' => $keywords,
+        ];
     }
 
     public function isAjax(): bool
@@ -59,13 +57,17 @@ abstract class Controller
         require APP . "/views/{$prefix}{$this->route['controller']}/{$view}.php";
         $view_file = APP . "/views/{$prefix}{$this->route['controller']}/{$this->view}.php";
         die;
+    }
 
+    public function error404($folder = 'Error', $view = 404, $response = 404)
+    {
+        http_response_code($response);
+        $this->setMeta(___('tpl_error_404'));
+        $this->route['controller'] = $folder;
+        $this->view = $view;
     }
 
 }
-
-
-
 
 
 

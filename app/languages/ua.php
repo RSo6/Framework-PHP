@@ -16,6 +16,8 @@ return [
     'tpl_cart_total_sum' => 'Сума',
     'tpl_login' => 'Авторизація',
     'tpl_signup' => 'Реєстрація',
+    'tpl_profile' => 'Профіль',
+    'tpl_log_out' => 'Вихід',
     'tpl_footer_information' => 'Інформація',
     'tpl_footer_main' => 'Головна',
     'tpl_footer_about_shop' => 'Про магазин',
@@ -30,4 +32,5 @@ return [
     'tpl_footer_We_in_network' => 'Ми в мережі',
     'tpl_home_bread_crumbs' => '<i class="fas fa-home"></i>',
     'tpl_product_language_toggler_buy' => 'Купити',
+    'tpl_error_404' => '404 - Сторінка не знайдена',
 ];

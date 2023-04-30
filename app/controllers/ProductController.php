@@ -19,7 +19,9 @@ class ProductController extends AppController
         $product = $this->model->getProduct($this->route['slug'], $lang);
 //        debug($product, 1);
         if (!$product) {
-            throw new \Exception("Продукт по запиту {$this->route['slug']} не знайдено", 404);
+//            throw new \Exception("Продукт по запиту {$this->route['slug']} не знайдено", 404);
+            $this->error404();
+            return;
         }
 //        debug($product);
 

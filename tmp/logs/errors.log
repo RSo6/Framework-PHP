@@ -3676,3 +3676,39 @@
         | String: 13 
         
 =================
+[2023-04-30 21:35:49] 
+        Error text: Controller app\controllers\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-04-30 21:42:17] 
+        Error text: Продукт по запиту apple-cinema-30y не знайдено                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\ProductController.php                        
+        | String: 22 
+        
+=================
+[2023-04-30 22:18:07] 
+        Error text: Not found LanguageController h                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\Language.php                        
+        | String: 51 
+        
+=================
+[2023-04-30 22:18:15] 
+        Error text: Not found LanguageController h                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\Language.php                        
+        | String: 51 
+        
+=================
+[2023-04-30 22:28:53] 
+        Error text: Controller app\controllers\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-04-30 22:28:54] 
+        Error text: Controller app\controllers\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================

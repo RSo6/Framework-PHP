@@ -113,13 +113,13 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 }
 
 .btn-danger {
-	background-color: midnightblue;
+	background-color: #000000;
 }
 
 .form-control:focus {
-	color: #212529;
-	background-color: #fff;
-	border-color: midnightblue;
+	color: #000000;
+	background-color: #ffffff;
+	border-color: #b57809;
 	outline: 0;
 	box-shadow: 0 0 0 .1rem rgb(199, 195, 54);
 }
@@ -456,8 +456,8 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 	display: block;
 	padding: 4px;
 	margin-bottom: 20px;
-	background-color: #fff;
-	border: 1px solid #ddd;
+	background-color: rgba(0, 0, 0, 0.17);
+	border: 1px solid #b57809;
 	border-radius: 4px;
 	transition: border-color .5s;
 }

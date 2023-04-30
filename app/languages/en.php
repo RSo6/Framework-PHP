@@ -13,8 +13,10 @@ return [
     'tpl_cart_empty' => 'Cart empty',
     'tpl_cart_total_qty' => 'In all:',
     'tpl_cart_total_sum' => 'Total',
-    'tpl_login' => 'Authorization',
-    'tpl_signup' => 'Registration',
+    'tpl_login' => 'Log in',
+    'tpl_signup' => 'Sign up',
+    'tpl_profile' => 'Profile',
+    'tpl_log_out' => 'Log out',
     'tpl_footer_information' => 'Інформація',
     'tpl_footer_main' => 'Головна',
     'tpl_footer_about_shop' => 'Про магазин',
@@ -28,4 +30,7 @@ return [
     'tpl_footer_call_numbers' => '+38(071)8317500',
     'tpl_footer_We_in_network' => 'Ми в мережі',
     'tpl_home_bread_crumbs' => '<i class="fas fa-home"></i>',
+    'tpl_product_language_toggler_buy' => 'Buy',
+    'tpl_error_404' => '404 - Page not found',
+
 ];
