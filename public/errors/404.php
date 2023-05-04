@@ -13,6 +13,12 @@ use wfm\App;
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Days+One">
     <link rel= "stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
     <link rel = "stylesheet" href = "/public/errors/404.css">
+    <style>
+        a {
+            text-decoration: none;
+
+        }
+    </style>
 </head>
 <body>
 <div class="scene">
@@ -27,8 +33,10 @@ use wfm\App;
     <div class="shadow"></div>
 </div>
 <div class="desc">
-    <h2>Ooops page not found!</h2>
-    <button href="<?php echo PATH ?>" class = "btn">BACK TO HOME</button>
+    <h2>Oops page not found!</h2>
+<!--    <button href="--><?php //echo PATH ?><!--" class = "btn">BACK TO HOME</button>-->
+<!--    <button onclick="window.location.href = --><?php //echo PATH ?><!--">BACK TO HOME</button>-->
+   <button><a href="<?php echo PATH ?>" class="button">BACK TO HOME</a></button>
 </div>
 
 </body>

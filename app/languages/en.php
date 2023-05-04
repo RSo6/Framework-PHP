@@ -32,5 +32,5 @@ return [
     'tpl_home_bread_crumbs' => '<i class="fas fa-home"></i>',
     'tpl_product_language_toggler_buy' => 'Buy',
     'tpl_error_404' => '404 - Page not found',
-
+    'tpl_total_pagination' => 'product(s) from'
 ];

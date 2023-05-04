@@ -26,12 +26,13 @@ class AppController extends Controller
         \wfm\Language::load($lang['code'], $this->route);
 
         $categories = R::getAssoc(
-            "SELECT c.*, cd.* FROM category 
-                c JOIN category_description cd
+            "SELECT c.*, cd.* FROM category c 
+                JOIN category_description cd
                 ON c.id = cd.category_id
                 WHERE cd.language_id = ?",
             [$lang['id']]);
 //        debug($categories,1);
+
         App::$app->setProperty("categories_{$lang['code']}", $categories);
 
 

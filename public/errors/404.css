@@ -109,44 +109,45 @@ html,
     .desc h2 {
         margin: 0;
         font-size: 26px;
+
     }
-    .desc button {
-        border: 2px solid #130d1a;
-        background: transparent;
-        margin-top: 20px;
-        padding: 10px 20px;
-        font-size: 13px;
-        font-family: "Days One", sans-serif;
-        box-shadow: 4px 4px 0 0 rgba(19, 13, 26, 0.5);
-        position: relative;
-        transition: 0.3s;
-        outline: none;
-        cursor: pointer;
-        border-radius: 0 20px;
-        overflow: hidden;
-    }
-    .desc button:after {
-        width: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        height: 0;
-        content: "";
-        background: #130d1a;
-        transition: 0.3s;
-        z-index: -1;
-    }
-    .desc button:hover {
-        color: #fff;
-        letter-spacing: 2px;
-    }
-.desc button:hover:after {
-        height: 100%;
-    }
-.desc button:active {
-    box-shadow: 0 0 0 rgba(0, 0, 0, 0.5)
+.desc button {
+    border: 2px solid #130d1a;
+    background: transparent;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 13px;
+    font-family: "Days One", sans-serif;
+    box-shadow: 4px 4px 0 0 rgba(19, 13, 26, 0.5);
+    position: relative;
+    transition: 0.3s;
+    outline: none;
+    cursor: pointer;
+    border-radius: 0 20px;
+    overflow: hidden;
 }
 
+.desc a:after {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 0;
+    content: "";
+    background: #130d1a;
+    transition: 0.3s;
+    z-index: -1;
+}
+.desc a:hover {
+    color: #fff;
+    letter-spacing: 2px;
+}
+.desc a:hover:after {
+    height: 100%;
+}
+.desc a:active {
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.5)
+}
 
 
 

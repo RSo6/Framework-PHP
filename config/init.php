@@ -1,6 +1,6 @@
 <?php
 
-define("DEBUG", 0); //константа DEBUG відповідає за режим роботи нашого прилож
+define("DEBUG", 1); //константа DEBUG відповідає за режим роботи нашого прилож
 define("ROOT", dirname(__DIR__)); //константа ROOT веде на корінь прилож
 define("WWW", ROOT . '/public'); //константа WWW-в якій зберіг.шлях до папки public.
 define("APP", ROOT . '/app');

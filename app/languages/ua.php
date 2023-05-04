@@ -33,4 +33,5 @@ return [
     'tpl_home_bread_crumbs' => '<i class="fas fa-home"></i>',
     'tpl_product_language_toggler_buy' => 'Купити',
     'tpl_error_404' => '404 - Сторінка не знайдена',
+    'tpl_total_pagination' => 'товар(ів) з'
 ];
