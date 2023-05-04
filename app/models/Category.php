@@ -10,8 +10,15 @@ class Category extends AppModel
 
     public function getCategory($slug, $lang): array
     {
-        return R::getRow("SELECT c.*, cd. * FROM category c JOIN category_description cd on c.id = cd.category_id
-        WHERE c.slug = ? AND cd.language_id = ?", [$slug, $lang['id']]);
+        return R::getRow(
+            "SELECT c.*, cd. * 
+                  FROM category c 
+                  JOIN category_description cd 
+                  on c.id = cd.category_id
+                  WHERE c.slug = ? 
+                   AND cd.language_id = ?",
+                   [$slug, $lang['id']]
+        );
 
     }
 
@@ -31,8 +38,16 @@ class Category extends AppModel
 
     public function getProducts($ids, $lang, $start, $per_page): array
     {
-        return R::getAll("SELECT p.*, pd.* FROM product p JOIN product_description pd on p.id = pd.product_id
-                 WHERE p.status = 1 AND p.category_id IN ($ids) AND pd.language_id = ? LIMIT $start, $per_page", [$lang['id']]);
+        return R::getAll(
+            "SELECT p.*, pd.*
+                  FROM product p 
+                  JOIN product_description pd on p.id = pd.product_id
+                  WHERE p.status = 1
+                  AND p.category_id
+                  IN ($ids) 
+                  AND pd.language_id = ?
+                  LIMIT $start, $per_page",
+                    [$lang['id']]);
 
 
     }
