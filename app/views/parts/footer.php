@@ -8,12 +8,11 @@ use wfm\View;
             <div class="row">
                 <div class="col-md-3 col-6">
                     <h4><?php __('tpl_footer_information'); ?></h4>
-                    <ul class="list-unstyled">
-                        <li><a href="#"><?php __('tpl_footer_main'); ?></a></li>
-                        <li><a href="#"><?php __('tpl_footer_about_shop'); ?></a></li>
-                        <li><a href="#"><?php __('tpl_footer_pay_and_delivery'); ?></a></li>
-                        <li><a href="#"><?php __('tpl_footer_contacts'); ?></a></li>
-                    </ul>
+                    <?php new \app\widgets\page\Page([
+                            'cache' => 0,
+                            'class' => 'list-unstyled',
+                            'prepend' => '<li><a href="'. baseUrl().'">' . ___('tpl_footer_main') . '</a></li>'
+                    ])?>
                 </div>
 
                 <div class="col-md-3 col-6">
