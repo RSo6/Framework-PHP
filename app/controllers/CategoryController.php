@@ -26,19 +26,22 @@ class CategoryController extends AppController
             return;
         }
         $bread_crumbs = BreadCrumbs::getBreadCrumbs($category['id']);
-//        debug($bread_crumbs);
+
         $ids = $this->model->getIds($category['id']);
         $ids = !$ids ? $category['id'] : $ids . $category['id'];
-//        var_dump($ids);
-//        var_dump(abs(get('page')));
-        $page = abs(get('page')) ?: 1;
-        $per_page = App::$app->getProperty('pagination');
-        $total = $this->model->getCountProducts($ids);
-//        var_dump($page, $per_page, $total);
 
+        $page = get('page');
+        $pagination_per_page = get('pagination');;
+        $basic = App::$app->getProperty('pagination');
+
+         $per_page = in_array($pagination_per_page, [5,10,15,25]) ? $pagination_per_page : $basic;
+
+        $total = $this->model->getCountProducts($ids);
+
+        debug($per_page);
         $pagination = new Pagination($page, $per_page, $total);
+        debug($pagination);
         $start = $pagination->getStart();
-//        var_dump($start);
 
 
         $products = $this->model->getProducts($ids, $lang, $start, $per_page);

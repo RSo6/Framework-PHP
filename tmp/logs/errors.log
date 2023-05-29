@@ -5170,3 +5170,1790 @@
         | String: 106 
         
 =================
+[2023-05-07 13:08:02] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-07 14:04:20] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:21] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:21] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-07 14:04:21] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:22] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:33] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:33] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:34] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:34] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:34] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:35] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:42] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:43] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:43] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:45] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 9, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:45] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:45] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:46] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:46] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:46] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:47] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:04:51] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '    
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:07:32] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:29:20] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:29:54] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:29:54] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:29:55] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:29:55] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:29:55] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:30:02] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:30:12] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:30:37] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:31:24] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:31:29] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:31:30] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:31:31] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:31:44] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '15
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:33:01] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:33:24] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:36:51] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:36:52] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:36:52] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:36:52] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:36:53] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:36:54] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:36:54] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:36:55] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:01] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:40] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:41] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:41] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:41] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:42] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:42] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:42] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:48] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:37:49] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:38:32] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:38:33] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:38:37] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:38:37] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:38:40] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:40:14] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:40:26] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:41:07] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:41:23] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:41:23] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:41:24] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:41:24] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:41:24] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:43:03] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:43:04] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:43:04] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:43:49] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:43:50] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:43:50] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:44:43] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:44:43] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:44:44] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:44:44] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:44:44] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:44:45] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 14:44:51] 
+        Error text: Undefined variable $pagination_per_page                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 41 
+        
+=================
+[2023-05-07 14:44:52] 
+        Error text: Undefined variable $pagination_per_page                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 41 
+        
+=================
+[2023-05-07 14:45:04] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:35] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:35] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:35] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:36] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:36] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:38] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:38] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:40] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:41] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:41] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:41] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:45:42] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:11] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:12] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:13] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:13] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:13] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:13] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:32] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:33] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:33] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:34] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:34] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:34] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:34] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:34] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:46:35] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:50:30] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  
+                  LIMIT 0, 3' at line 8                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:51:58] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:53:44] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:53:47] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:55:03] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY pagination 5' at line 10                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:55:03] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY pagination 5' at line 10                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:55:04] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY pagination 5' at line 10                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:55:04] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY pagination 5' at line 10                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:55:04] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY pagination 5' at line 10                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 14:55:07] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY pagination 10' at line 10                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:04:01] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 74 
+        
+=================
+[2023-05-07 15:05:51] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:05:51] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:05:52] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:05:52] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:06:58] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:07:38] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:07:53] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:07:54] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:08:00] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 2' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:10:12] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:10:13] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:10:13] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:10:14] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:10:23] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:10:24] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:10:55] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:10:57] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:10:57] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:10:57] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:10:58] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:10:58] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:10:58] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:11:05] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:11:05] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 10' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:11:10] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:10] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:10] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:10] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:11] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:11] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:12] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:12] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:13] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:14] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:24] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:11:48] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:16] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:16] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:25] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:25] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:27] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:27] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:27] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:28] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:28] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:29] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:29] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:29] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:30] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:30] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:31] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:12:34] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:35] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:35] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:36] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:37] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:39] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:43] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:43] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:44] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:44] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:13:44] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:14:24] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:14:43] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:15:39] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:15:40] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:15:42] 
+        Error text: Unsupported operand types: int / string                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:19:07] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:19:21] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:19:21] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:19:21] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:19:22] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:20:23] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10
+                  LIMIT 0, 3' at line 9                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-05-07 15:20:37] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:20:37] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:20:38] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:22:00] 
+        Error text: Undefined variable $per_page                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\CategoryController.php                        
+        | String: 40 
+        
+=================
+[2023-05-07 15:22:01] 
+        Error text: Undefined variable $per_page                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\CategoryController.php                        
+        | String: 40 
+        
+=================
+[2023-05-07 15:22:01] 
+        Error text: Undefined variable $per_page                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\CategoryController.php                        
+        | String: 40 
+        
+=================
+[2023-05-07 15:22:08] 
+        Error text: Too few arguments to function wfm\Registry::setProperty(), 1 passed in D:\OSPanel\domains\new-myshop.loc\app\controllers\CategoryController.php on line 36 and exactly 2 expected                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Registry.php                        
+        | String: 16 
+        
+=================
+[2023-05-07 15:23:11] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-07 15:23:12] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-09 10:22:17] 
+        Error text: in_array(): Argument #2 ($haystack) must be of type array, int given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\CategoryController.php                        
+        | String: 37 
+        
+=================
+[2023-05-09 10:23:19] 
+        Error text: Undefined variable $pagination_by                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 62 
+        
+=================
+[2023-05-09 10:23:21] 
+        Error text: Undefined variable $pagination_by                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 62 
+        
+=================
+[2023-05-09 10:23:21] 
+        Error text: Undefined variable $pagination_by                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 62 
+        
+=================
+[2023-05-09 10:23:21] 
+        Error text: Undefined variable $pagination_by                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 62 
+        
+=================
+[2023-05-09 10:23:22] 
+        Error text: Undefined variable $pagination_by                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 62 
+        
+=================
+[2023-05-09 10:23:22] 
+        Error text: Undefined variable $pagination_by                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 62 
+        
+=================
+[2023-05-09 10:46:21] 
+        Error text: Undefined variable $basic                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\CategoryController.php                        
+        | String: 38 
+        
+=================
+[2023-05-09 10:53:44] 
+        Error text: Call to undefined function app\controllers\CURLINFO_EFFECTIVE_URL()                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\CategoryController.php                        
+        | String: 39 
+        
+=================
+[2023-05-09 10:55:05] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-09 10:55:06] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-09 10:55:06] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-09 10:55:10] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-09 10:55:10] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-11 08:45:53] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-11 12:35:05] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-12 10:45:41] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-12 10:46:30] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-14 13:16:42] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-18 18:33:06] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-22 19:08:16] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-22 19:27:10] 
+        Error text: Controller app\controllers\SearchController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-05-22 19:27:37] 
+        Error text: Controller app\controllers\SearchController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-05-22 19:37:59] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-22 19:37:59] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-22 20:03:09] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-22 20:03:30] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-22 20:04:17] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-22 20:04:55] 
+        Error text: Division by zero                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Pagination.php                        
+        | String: 106 
+        
+=================
+[2023-05-22 20:13:02] 
+        Error text: syntax error, unexpected identifier "fas", expecting "]"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\languages\en.php                        
+        | String: 32 
+        
+=================
+[2023-05-22 20:13:03] 
+        Error text: syntax error, unexpected identifier "fas", expecting "]"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\languages\en.php                        
+        | String: 32 
+        
+=================
+[2023-05-22 20:13:03] 
+        Error text: syntax error, unexpected identifier "fas", expecting "]"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\languages\en.php                        
+        | String: 32 
+        
+=================
+[2023-05-22 20:13:04] 
+        Error text: syntax error, unexpected identifier "fas", expecting "]"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\languages\en.php                        
+        | String: 32 
+        
+=================
+[2023-05-22 20:13:10] 
+        Error text: syntax error, unexpected identifier "fas", expecting "]"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\languages\en.php                        
+        | String: 32 
+        
+=================
+[2023-05-22 20:30:04] 
+        Error text: Undefined variable $category                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 26 
+        
+=================
+[2023-05-22 20:40:09] 
+        Error text: Undefined variable $s                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Category\view.php                        
+        | String: 24 
+        
+=================
+[2023-05-22 20:40:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-22 20:40:12] 
+        Error text: Undefined variable $s                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Category\view.php                        
+        | String: 24 
+        
+=================
+[2023-05-22 20:40:13] 
+        Error text: Undefined variable $s                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Category\view.php                        
+        | String: 24 
+        
+=================
+[2023-05-22 20:40:16] 
+        Error text: Undefined variable $s                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Category\view.php                        
+        | String: 24 
+        
+=================
+[2023-05-22 21:03:16] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-22 21:03:16] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-22 21:03:37] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-22 21:03:40] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-22 21:03:46] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-22 21:04:05] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-22 21:04:06] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-22 21:04:06] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-22 21:04:06] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-22 21:04:07] 
+        Error text: require_once(public\assets\css\main.css): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\Search\index.php                        
+        | String: 3 
+        
+=================
+[2023-05-24 22:15:57] 
+        Error text: count(): Argument #1 ($value) must be of type Countable|array, bool given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\WishList.php                        
+        | String: 32 
+        
+=================
+[2023-05-24 22:16:02] 
+        Error text: count(): Argument #1 ($value) must be of type Countable|array, bool given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\WishList.php                        
+        | String: 32 
+        
+=================
+[2023-05-24 22:16:06] 
+        Error text: count(): Argument #1 ($value) must be of type Countable|array, bool given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\WishList.php                        
+        | String: 32 
+        
+=================
+[2023-05-25 19:31:06] 
+        Error text: Method app\controllers\WishlistController::deleteAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-05-25 19:37:43] 
+        Error text: Method app\controllers\WishlistController::deleteAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-05-25 19:37:43] 
+        Error text: Method app\controllers\WishlistController::deleteAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-05-25 19:37:51] 
+        Error text: Method app\controllers\WishlistController::deleteAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-05-25 19:41:20] 
+        Error text: Method app\controllers\WishlistController::deleteAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-05-25 19:53:49] 
+        Error text: Not found LanguageController wishlist                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\Language.php                        
+        | String: 51 
+        
+=================
+[2023-05-25 21:38:54] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:38:54] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:38:55] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:38:56] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:38:57] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:38:57] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:38:58] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:38:58] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:38:58] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:38:59] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 21:39:00] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-25 22:10:36] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-29 18:45:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-05-29 18:45:32] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================

@@ -7,7 +7,7 @@ body {
 	font-size: 14px;
 	line-height: 27px;
 	font-weight: 400;
-	color: #ffffff;
+	color: #5656a1;
 	background-color: #000000;
 	min-width: 320px;
 	padding-top: 135px;
@@ -548,4 +548,5 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
     	font-size: 20px;
     }
 }
+
 

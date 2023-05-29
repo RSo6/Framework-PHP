@@ -122,8 +122,8 @@ class Pagination
 
     public function getParams()//getter який забирає get параметри
     {   //$_SERVER['REQUEST_URI'] - буде зберігати повний шлях запиту, включаючи рядок запиту
-        $url = $_SERVER['REQUEST_URI']; // http://git.myroslav/category/kompyutery/page=1&sort=name
-        // розбиваємо шлях запиту знаком питанням http://git.myroslav/category/kompyutery"-ось наш знак розділу ?-"page=1&sort=name
+        $url = $_SERVER['REQUEST_URI']; // http://new-myshop.loc/category/kompyutery/page=1&sort=name
+        // розбиваємо шлях запиту знаком питанням http://new-myshop.loc/category/kompyutery"-ось наш знак розділу ?-"page=1&sort=name
         $url = explode('?', $url);
         $uri = $url[0];// в url під ключем 0 буде стояти http://new-myshop.loc/category/kompyutery тобто до сепараторя "?"
         if (isset($url[1]) && $url[1] != '') {//якщо існує url[1] тобто page=1&sort=name і (&&) якщо url[1] не пустий тоді...

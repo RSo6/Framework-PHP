@@ -22,7 +22,16 @@
                            data-id="<?php echo $product['id'] ?>">
                             <?php echo getCartIcon($product['id']); ?>
                         </a>
-                        <a href="#"><i class="far fa-heart"></i></a>
+
+                        <?php if (in_array($product['id'], \wfm\App::$app->getProperty('wishlist'))): ?>
+                            <a class="delete-from-wishlist" href="wishlist/delete?id=<?php echo $product['id'];  ?>" data-id="<?php echo $product['id'] ?>">
+                                <i class="fas fa-hand-holding-heart"></i></a>
+
+                        <?php else: ?>
+                            <a class="add-to-wishlist" href="wishlist/add?id=<?php echo $product['id'];  ?>" data-id="<?php echo $product['id'] ?>">
+                                <i class="far fa-heart"></i></a>
+                        <?php endif; ?>
+
                     </div>
                 </div>
             </div>

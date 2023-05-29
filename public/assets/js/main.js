@@ -78,8 +78,157 @@ function showCart(cart) {
     });
  });
 
-//CART
+//END_CART
 
+//Begin WishList
+$('.product-card').on('click', '.add-to-wishlist', function (e) {
+		e.preventDefault();
+		const id = $(this).data('id');
+		const $this = $(this);
+		$.ajax({
+			url: 'wishlist/add',
+			type: 'GET',
+			data: {id: id},
+			success: function (res) {
+				res = JSON.parse(res);
+				Swal.fire(
+					res.text,
+					'',
+					res.result
+				);
+				if (res.result == 'success') {
+					$this.removeClass('add-to-wishlist').addClass('delete-from-wishlist');
+					$this.find('i').removeClass('far fa-heart').addClass('fas fa-hand-holding-heart');
+				}
+			},
+			error: function () {
+				alert('Error!');
+			}
+		});
+	});
+
+	$('.product-card').on('click', '.delete-from-wishlist', function (e) {
+		e.preventDefault();
+		const id = $(this).data('id');
+		const $this = $(this);
+		$.ajax({
+			url: 'wishlist/delete',
+			type: 'GET',
+			data: {id: id},
+			success: function (res) {
+				const url = window.location.toString();
+				if (url.indexOf('wishlist') !== -1) {
+					window.location = url;
+				} else {
+					res = JSON.parse(res);
+					Swal.fire(
+						res.text,
+						'',
+						res.result
+					);
+					if (res.result == 'success') {
+						$this.removeClass('delete-from-wishlist').addClass('add-to-wishlist');
+						$this.find('i').removeClass('fas fa-hand-holding-heart').addClass('far fa-heart');
+					}
+				}
+			},
+			error: function () {
+				alert('Error!');
+			}
+		});
+	});
+
+//$('.product-card').on('click', '.add-to-wishlist', function (e) {
+//		e.preventDefault();
+//		const id = $(this).data('id');
+//		const $this = $(this);
+//		$.ajax({
+//			url: 'wishlist/add',
+//			type: 'GET',
+//			data: {id: id},
+//			success: function (res) {
+//				res = JSON.parse(res);
+//				Swal.fire(
+//					res.text,
+//					'',
+//					res.result
+//				);
+//				if (res.resul == 'success') {
+//				$this.removeClass('add-to-wishlist').addClass('delete-from-wishlist');
+//                $this.find('i').removeClass('far fa-heart').addClass('fas fa-hand-holding-heart');
+//				}
+//
+//			},
+//			error: function () {
+//				alert('Error!');
+//			}
+//		});
+//	});
+//
+//$('.product-card').on('click', '.delete-from-wishlist', function (e) {
+//		e.preventDefault();
+//		const id = $(this).data('id');
+//		const $this = $(this);
+//		$.ajax({
+//			url: 'wishlist/delete',
+//			type: 'GET',
+//			data: {id: id},
+//			success: function (res) {
+//			    const url = window.location.toString();
+//			    if (url.indexOf('wishlist') !== -1) {
+//			    window.location = url;
+//			    } else {
+//			    res = JSON.parse(res);
+//                		Swal.fire(
+//                		res.text,
+//                		'',
+//                		res.result
+//                		);
+//                		if (res.resul == 'success') {
+//                        				$this.removeClass('delete-from-wishlist').addClass('add-to-wishlist');
+//                                        $this.find('i').removeClass('fas fa-hand-holding-heart').addClass('far fa-heart');
+//                        				}
+//			    }
+//			},
+//			error: function () {
+//				alert('Error!');
+//			}
+//		});
+//	});
+
+//End WishList
+
+// SORT
+
+$('#input-sort').on('change', function () {
+
+		if ($(this).val()) {
+			if (window.location.search) {//search властивість об'єкту Location яка містить рядок з параметрами у URL адресі вікна включаючи символ: "?". Наприклад: "?pages=1&offset=2".
+			        //http://new-myshop.loc/ + category/kompyutery + ?sort=title_desc + & і новий запит
+				window.location = PATH + window.location.pathname + window.location.search + '&' + $(this).val();
+			} else {//http://new-myshop.loc/ + category/kompyutery + перший запит чи то сортування чи пагінація
+				window.location = PATH + window.location.pathname + '?' + $(this).val();
+			}
+		} else { //якщо ніщо зверху не спрацювало то просто залишаємось на category/kompyutery
+			window.location = PATH + window.location.pathname;
+		}
+
+	});
+
+	$('#pagination-sort').on('change', function () {
+
+		if ($(this).val()) {
+			if (window.location.search) {
+				window.location = PATH + window.location.pathname + window.location.search + '&' + $(this).val();
+			} else {
+				window.location = PATH + window.location.pathname + '?' + $(this).val();
+			}
+		} else {
+			window.location = PATH + window.location.pathname;
+		}
+	});
+
+// END_SORT
 	$('.open-search').click(function(e) {
 		e.preventDefault();
 		$('#search').addClass('active');

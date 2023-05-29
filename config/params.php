@@ -5,7 +5,7 @@ return [
 
     'site_name' => 'ModernShop',
 
-    'pagination' => 3,
+    'pagination' => '3',
 ];
 
 
