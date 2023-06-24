@@ -12,7 +12,12 @@ body {
 	min-width: 320px;
 	padding-top: 135px;
 }
+label.required::before {
+	content: "* ";
+	color: #ff0000;
+	font-weight: bold;
 
+}
 img{
 	max-width: 100%;
 	height: auto;
@@ -44,6 +49,7 @@ section {
 	margin-bottom: 30px;
 	text-align: center;
 }
+
 
 .section-title::before {
 	margin-left: -90%;

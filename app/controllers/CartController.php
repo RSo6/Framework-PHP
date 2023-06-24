@@ -4,8 +4,9 @@ namespace app\controllers;
 
 
 use app\models\Cart;
+use app\models\Order;
 use wfm\App;
-
+use app\models\User;
 /**
  * @property Cart $model
  */
@@ -65,5 +66,50 @@ class CartController extends AppController
          $this->loadView('cart_modal');
          return true;
      }
+
+     public function viewAction()
+     {
+//         debug($_SESSION['user']);
+         $this->setMeta(___('tpl_cart_title'));
+     }
+
+     public function checkoutAction()
+     {
+         if (!empty($_POST)) {
+            //реєстрація користувача, якщо він не авторизований
+             if (!(User::checkAuth())) {
+               $user = new User();
+               $user->load();
+               if (!$user->validate($user->attributes) || !$user->checkUnique()) {
+                    $user->getErrors();
+                    $_SESSION['form_data'] = $user->attributes;
+                    redirect();
+               } else {
+                   $user->attributes['password'] = password_hash($user->attributes['password'], PASSWORD_DEFAULT);
+                        if (!$user_id = $user->save('user')) {
+                            $_SESSION['errors'] = ___('cart_checkout_error_register');
+                            redirect();
+                        }
+                     }
+                  }
+             //збереження замовлення
+             $data['user_id'] = $user_id ?? $_SESSION['user']['id'];
+             $data['note'] = post('note');
+             $user_email = $_SESSION['user']['email'] ?? post('email');
+
+                if (!$order_id = Order::saveOrder($data)) {
+                    $_SESSION['errors'] = ___('cart_checkout_error_save_order');
+                } else {
+                    Order::mailOrder($order_id, $user_email, 'mail_order_user');
+                    Order::mailOrder($order_id, App::$app->getProperty('admin_email'), 'mail_order_user');
+                    unset($_SESSION['cart']);
+                    unset($_SESSION['sum']);
+                    unset($_SESSION['qty']);
+                    $_SESSION['success'] = ___('cart_checkout_order_success');
+                }
+         }
+         redirect();
+     }
+
 
 }

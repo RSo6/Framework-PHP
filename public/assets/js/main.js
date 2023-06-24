@@ -3,82 +3,96 @@ $(function() {
 //CART
 
 function showCart(cart) {
-    $('#cart-modal .modal-cart-content').html(cart);
-    const myModalEl = document.querySelector('#cart-modal');
-    const modal = bootstrap.Modal.getOrCreateInstance(myModalEl);
-    modal.show();
+		$('#cart-modal .modal-cart-content').html(cart);
+		const myModalEl = document.querySelector('#cart-modal');
+		const modal = bootstrap.Modal.getOrCreateInstance(myModalEl);
+		modal.show();
 
-    if ($('.cart-qty').text()) {
-        $('.count-items').text($('.cart-qty').text());
-    } else {
-         $('.count-items').text('0');
-    }
-}
+		if ($('.cart-qty').text()) {
+			$('.count-items').text($('.cart-qty').text());
+		} else {
+			$('.count-items').text('0');
+		}
+	}
 
-   $('#get-cart').on('click', function (e) {
-   		e.preventDefault();
-   		$.ajax({
-   			url: 'cart/show',
-   			type: 'GET',
-   			success: function (res) {
-   				showCart(res);
-   			},
-   			error: function () {
-   				alert('Error!');
-   			}
-   		});
-   	});
+	$('#get-cart').on('click', function (e) {
+		e.preventDefault();
+		$.ajax({
+			url: 'cart/show',
+			type: 'GET',
+			success: function (res) {
+				showCart(res);
+			},
+			error: function () {
+				alert('Error!');
+			}
+		});
+	});
 
-   	$('#cart-modal .modal-cart-content').on('click', '.del-item', function (e) {
-   	    e.preventDefault();
-   	    const id = $(this).data('id')
-   	     $.ajax({//https://dzudzylo.com/javascript/shho-take-ajax-ta-yak-vona-pratsyuye.html
-                url: 'cart/delete',//url - на який відправляється запит
-                type: 'GET',//метод передачі
-                data: {id: id},//продукт і кільскість
-                success: function (res) {
-                    showCart(res);
-                },
-                error: function () {
-                    alert('Error!');
-                }
-            });
-         });
-		
-         $('#cart-modal .modal-cart-content').on('click', '#clear-cart', function () {
-   	     $.ajax({//https://dzudzylo.com/javascript/shho-take-ajax-ta-yak-vona-pratsyuye.html
-                url: 'cart/clear',//url - на який відправляється запит
-                type: 'GET',//метод передачі
-                success: function (res) {
-                    showCart(res);
-                },
-                error: function () {
-                    alert('Error!');
-                }
-            });
-         });
+	$('#cart-modal .modal-cart-content').on('click', '.del-item', function (e) {
+		e.preventDefault();
+		const id = $(this).data('id');
+		$.ajax({
+			url: 'cart/delete',
+			type: 'GET',
+			data: {id: id},
+			success: function (res) {
+			const url = window.location.toString();//дістаємо url сторінки
+			if (url.indexOf('cart/view') !== -1) { //якщо там є cart/view
+			window.location = url;//тоді ми залишаємось на цій сторінці
+			} else {
+			showCart(res);
+			}
+			},
+			error: function () {
+				alert('Error!');
+			}
+		});
+	});
 
- $('.add-to-cart').on('click', function (e) {//привязуємось до класу add to cart(і під час натискання буде виконуватись функція, е - дефолтна поведінка
-    e.preventDefault();//запобігаємо дефолтному поведінню
-    const id = $(this).data('id');//
-    const qty = $('#input-quantity').val() ? $('#input-quantity').val() : 1;
-    const $this = $(this);
-    
-    $.ajax({//https://dzudzylo.com/javascript/shho-take-ajax-ta-yak-vona-pratsyuye.html
-        url: 'cart/add',//url - на який відправляється запит
-        type: 'GET',//метод передачі
-        data: {id: id, qty: qty},//продукт і кільскість
-        success: function (res) {
-            showCart(res);
-            $this.find('i').removeClass('fa-shopping-cart').addClass('fa-luggage-cart');
-        },
-        error: function () {
-            alert('Error!');
-        }
-    });
- });
+	$('#cart-modal .modal-cart-content').on('click', '#clear-cart', function () {
+		$.ajax({
+			url: 'cart/clear',
+			type: 'GET',
+			success: function (res) {
+				showCart(res);
+			},
+			error: function () {
+				alert('Error!');
+			}
+		});
+	});
+
+	$('.add-to-cart').on('click', function (e) {
+		e.preventDefault();
+		const id = $(this).data('id');
+		const qty = $('#input-quantity').val() ? $('#input-quantity').val() : 1;
+		const $this = $(this);
+
+		$.ajax({
+			url: 'cart/add',
+			type: 'GET',
+			data: {id: id, qty: qty},
+			success: function (res) {
+				showCart(res);
+				$this.find('i').removeClass('fa-shopping-cart').addClass('fa-luggage-cart');
+			},
+			error: function () {
+				alert('Error!');
+			}
+		});
+	});
 
 //END_CART
+//var form = document.getElementById("phone");
+//
+//form.addEventListener("mouseover", function() {
+//  form.value = "+38";
+//});
+//
+//form.addEventListener("mouseout", function() {
+//  form.value = "";
+//});
 
 //Begin WishList
 $('.product-card').on('click', '.add-to-wishlist', function (e) {

@@ -1,7 +1,5 @@
 <?php
 
-
-
 /** @var $this \wfm\View */
 /** @var $products array */
 /** @var $total int */
@@ -14,7 +12,7 @@
                 <li class="breadcrumb-item">
                     <a href="<?php echo baseUrl(); ?>"><i class="fas fa-home"></i></a>
                 </li>
-                <li class="breadcrumb-item"><?php __('tpl_search_title')?></li></ol>
+                <li class="breadcrumb-item"><?php __('Search_index_title')?></li></ol>
         </ol>
     </nav>
 </div>
@@ -26,9 +24,9 @@
             <div class="row">
 
                 <div class="col-lg-12 category-content">
-                    <h1 class="section-title"><?php __('tpl_search_title');?></h1>
+                    <h1 class="section-title"><?php __('Search_index_title');?></h1>
 
-                    <h4><?php echo ___('tpl_search_query') . h($s);?></h4>
+                    <h4><?php echo ___('Search_index_query') . h($s);?></h4>
                     <div class="row">
                         <?php if (!empty($products)): ?>
                             <?php $this->getPart('parts/products_loop', compact('products')); ?>
@@ -45,10 +43,8 @@
                             </div>
 
                         <?php else: ?>
-                            <p><?php __('tpl_search_not_found'); ?></p>
+                            <p><?php __('Search_index_not_found'); ?></p>
                         <?php endif; ?>
-
-
 
                     </div>
 

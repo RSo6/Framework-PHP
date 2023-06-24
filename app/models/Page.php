@@ -12,11 +12,11 @@ class Page extends AppModel
     {
         return R::getRow(
             "SELECT p.*, pd.*
-FROM page p
-    JOIN page_description pd
-        on p.id = pd.page_id
-WHERE p.slug = ?
-  AND pd.language_id = ?",
+                  FROM page p
+                  JOIN page_description pd
+                  on p.id = pd.page_id
+                  WHERE p.slug = ?
+                  AND pd.language_id = ?",
             [$slug, $lang['id']]);
 
     }

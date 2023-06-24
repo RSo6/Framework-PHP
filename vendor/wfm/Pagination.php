@@ -114,7 +114,7 @@ class Pagination
 
     }
 
-    public function getStart()//вказує з якого продукту потрібно почати вибірку товарів
+    public function     getStart()//вказує з якого продукту потрібно почати вибірку товарів
     {
         return ($this->current_page - 1) * $this->per_page;// від поточної сторінки відняти 1 і помножити на к-сть товарів на сторінці
 

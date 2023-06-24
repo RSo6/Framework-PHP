@@ -31,7 +31,7 @@ use wfm\View;
                 <div class="col text-end icons">
                     <form action="search">
                         <div class="input-group" id="search">
-                            <input type="text" class="form-control" placeholder="<?php __('tpl_search'); ?>" name="s">
+                            <input type="text" class="form-control" placeholder="<?php __('Search_index_search'); ?>" name="s">
                             <button class="btn close-search" type="button"><i class="fas fa-times"></i></i></button>
                             <button class="btn" type="submit"><i class="fas fa-search"></i></button>
                         </div>
@@ -50,12 +50,12 @@ use wfm\View;
                             <i class="far fa-user"></i>
                         </a>
                         <ul class="dropdown-menu">
-                           <?php if (!empty($_SESSION['user'])):?>
-                            <li><a class="dropdown-item" href="#"><?php __('tpl_login'); ?></a></li>
-                            <li><a class="dropdown-item" href="#"><?php __('tpl_signup'); ?></a></li>
+                           <?php if (empty($_SESSION['user'])):?>
+                            <li><a class="dropdown-item" href="user/login"><?php __('tpl_login_header'); ?></a></li>
+                            <li><a class="dropdown-item" href="user/signup"><?php __('tpl_signup_header'); ?></a></li>
                            <?php else: ?>
-                               <li><a class="dropdown-item" href="#"><?php __('tpl_profile'); ?></a></li>
-                               <li><a class="dropdown-item" href="#"><?php __('tpl_log_out'); ?></a></li>
+                               <li><a class="dropdown-item" href="user/cabinet"><?php __('tpl_cabinet'); ?></a></li>
+                               <li><a class="dropdown-item" href="user/logout"><?php __('tpl_log_out'); ?></a></li>
                             <?php endif; ?>
                         </ul>
                     </div>

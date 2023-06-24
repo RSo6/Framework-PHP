@@ -5,6 +5,7 @@ namespace app\controllers;
 
 use app\models\BreadCrumbs;
 use app\models\Category;
+use app\models\User;
 use wfm\App;
 use wfm\Pagination;
 
@@ -31,24 +32,25 @@ class CategoryController extends AppController
         $ids = !$ids ? $category['id'] : $ids . $category['id'];
 
         $page = get('page');
+//        debug($page);
         $pagination_per_page = get('pagination');;
         $basic = App::$app->getProperty('pagination');
-
+//        debug($basic);
          $per_page = in_array($pagination_per_page, [5,10,15,25]) ? $pagination_per_page : $basic;
-
+//         debug($per_page);
         $total = $this->model->getCountProducts($ids);
-
-        debug($per_page);
+//            debug($total);
         $pagination = new Pagination($page, $per_page, $total);
-        debug($pagination);
+//        debug($pagination);
         $start = $pagination->getStart();
-
+//        debug($start);
 
         $products = $this->model->getProducts($ids, $lang, $start, $per_page);
 //        debug($products);
         $this->setMeta($category['title'], $category['description'], $category['keywords']);
         $this->set(compact('products', 'category', 'bread_crumbs', 'total', 'pagination'));
     }
+
 
 
 }

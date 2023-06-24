@@ -31,6 +31,9 @@ class Db
             // option 'true' - debugging mode on;
             R::debug(true, 3);// 'mode 3' - mute output to the screen;
         }
+        R::ext('xdispense', function( $type ){
+            return R::getRedBean()->dispense( $type );
+        });
     }
 }
 

@@ -6,6 +6,7 @@ namespace app\controllers;
 
 use app\models\BreadCrumbs;
 use app\models\Product;
+use app\models\User;
 use wfm\App;
 
 /** @property Product $model*/
@@ -13,11 +14,14 @@ use wfm\App;
 class ProductController extends AppController
 {
 
+
     public function viewAction()
     {
         $lang = App::$app->getProperty('language');
+//        debug($lang,1);
         $product = $this->model->getProduct($this->route['slug'], $lang);
 //        debug($product, 1);
+
         if (!$product) {
 //            throw new \Exception("Продукт по запиту {$this->route['slug']} не знайдено", 404);
             $this->error404();
@@ -35,8 +39,12 @@ class ProductController extends AppController
         //[product] => 'gallery'
         //       }
 
-
-
     }
 
 }
+
+
+
+
+
+

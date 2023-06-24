@@ -44,7 +44,7 @@
     <button type="button" class="btn btn-success ripple" data-bs-dismiss="modal">
         <?php __('tpl_footer_top_cart_continue_shop'); ?></button>
     <?php if (!empty($_SESSION['cart'])) : ?>
-    <button type="button" class="btn btn-primary"><?php __('tpl_footer_top_cart_complete_order') ?></button>
+    <a href="cart/view" class="btn btn-primary"><?php __('tpl_footer_top_cart_complete_order') ?></a>
     <button type="button" id="clear-cart" class="btn btn-danger"><?php __('tpl_footer_top_clear_cart') ?></button>
     <?php endif; ?>
 </div>
