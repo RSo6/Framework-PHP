@@ -109,6 +109,11 @@ class Menu
     {
         ob_start();
         require $this->tpl;
+//        debug($_SESSION, 1);
+//        debug($category['parent_id'], 1);
         return ob_get_clean();
+
     }
+
+
 }

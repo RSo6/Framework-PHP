@@ -9,7 +9,7 @@
             </div>
             <div class="product-details">
                 <h4><a href="product/<?php echo $product['slug'] ?>"><?php echo $product['title'] ?></a></h4>
-                <p><?= $product['exerpt'] ?></p>
+                <p><?php echo $product['exerpt'] ?></p>
                 <div class="product-bottom-details d-flex justify-content-between">
                     <div class="product-price">
                         <?php if ($product['old_price']): ?>

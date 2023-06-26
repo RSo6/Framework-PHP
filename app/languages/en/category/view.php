@@ -10,4 +10,5 @@ return [
     'category_view_sort_title_desc' => 'Name (Z-A)',
     'category_view_sort_price_asc' => 'Price (low > high)',
     'category_view_sort_price_desc' => 'Price (high > low)',
+    'category_view_sort_time_asc' => 'Novelty',
 ];

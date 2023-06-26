@@ -12634,3 +12634,1267 @@
         | String: 77 
         
 =================
+[2023-06-24 23:38:36] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-25 00:04:13] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'time' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:12:39] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'time' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:43:22] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:43:44] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:43:45] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:43:46] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:43:46] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:43:46] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:43:46] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:43:47] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:51] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:51] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:52] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:52] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:52] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:53] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:55] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:56] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:56] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:56] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:57] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:57] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:57] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:57] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:57] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:45:58] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:46:00] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:46:12] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:47:01] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:47:15] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/               
+                  IN (1) 
+                  AND pd.language_i' at line 6                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 00:47:15] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/               
+                  IN (1) 
+                  AND pd.language_i' at line 6                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 16:58:56] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 16:59:25] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 17:40:29] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 17:41:25] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 17:42:07] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 17:42:08] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 17:42:08] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 17:42:08] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 17:42:09] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-25 17:42:44] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date' in 'order clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 11:00:19] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-26 11:19:48] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-26 11:19:50] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-26 11:19:50] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-26 12:39:21] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-26 14:31:48] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:33:16] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:33:16] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:33:17] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:33:17] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:33:17] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:36:12] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:36:12] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:36:13] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:36:13] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:36:13] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:36:14] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:39:28] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:34] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:38] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:39] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:39] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:39] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:39] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:40] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:40] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:40] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:40] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:40] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:41] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:41] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:41] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:48:47] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:50:34] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:50:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:50:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:50:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:50:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:50:36] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:50:36] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:50:36] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:50:36] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:52:18] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:52:18] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:52:19] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:52:27] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:52:27] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:52:29] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:52:49] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:53:31] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 14:54:47] 
+        Error text: Undefined array key "category_id"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\ProductController.php                        
+        | String: 32 
+        
+=================
+[2023-06-26 14:58:13] 
+        Error text: Too few arguments to function app\models\Category::getProducts(), 4 passed in D:\OSPanel\domains\new-myshop.loc\app\controllers\CategoryController.php on line 49 and exactly 5 expected                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 39 
+        
+=================
+[2023-06-26 15:40:45] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, null returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 71 
+        
+=================
+[2023-06-26 15:40:47] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-26 15:41:04] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, null returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 71 
+        
+=================
+[2023-06-26 15:41:04] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, null returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 71 
+        
+=================
+[2023-06-26 15:41:05] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, null returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 71 
+        
+=================
+[2023-06-26 15:41:05] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, null returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 71 
+        
+=================
+[2023-06-26 15:41:05] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, null returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 71 
+        
+=================
+[2023-06-26 15:41:05] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, null returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 71 
+        
+=================
+[2023-06-26 15:41:05] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, null returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 71 
+        
+=================
+[2023-06-26 15:41:57] 
+        Error text: syntax error, unexpected token "public"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 75 
+        
+=================
+[2023-06-26 15:41:58] 
+        Error text: syntax error, unexpected token "public"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 75 
+        
+=================
+[2023-06-26 15:42:15] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-26 15:51:59] 
+        Error text: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'product_id' in field list is ambiguous                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 15:52:29] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, string returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 77 
+        
+=================
+[2023-06-26 15:52:30] 
+        Error text: app\models\Category::getProducts(): Return value must be of type array, string returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 77 
+        
+=================
+[2023-06-26 15:53:08] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:54:12] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 15:54:44] 
+        Error text: Too few arguments to function app\models\Category::getProducts(), 5 passed in D:\OSPanel\domains\new-myshop.loc\app\controllers\CategoryController.php on line 49 and exactly 6 expected                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\Category.php                        
+        | String: 40 
+        
+=================
+[2023-06-26 15:54:55] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-06-26 15:54:56] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-06-26 15:55:02] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-06-26 15:55:02] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-06-26 15:55:03] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-06-26 15:55:03] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-06-26 15:55:17] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:55:22] 
+        Error text: Not found LanguageController category                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\Language.php                        
+        | String: 51 
+        
+=================
+[2023-06-26 15:55:27] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:57:02] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category_id' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 15:58:14] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:31] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:32] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:32] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:33] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:33] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:38] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:38] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:38] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:49] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 15:59:50] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:03:40] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:03:41] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:06:05] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:06:05] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:06:06] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:08:25] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:08:26] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:08:26] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:08:27] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:08:27] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:08:28] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:23] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:25] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:25] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:30] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:30] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:30] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:32] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:32] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:33] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:33] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:33] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:35] 
+        Error text: Not found LanguageController category                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\Language.php                        
+        | String: 51 
+        
+=================
+[2023-06-26 16:09:37] 
+        Error text: Not found LanguageController category                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\Language.php                        
+        | String: 51 
+        
+=================
+[2023-06-26 16:09:37] 
+        Error text: Not found LanguageController category                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\Language.php                        
+        | String: 51 
+        
+=================
+[2023-06-26 16:09:37] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:39] 
+        Error text: Not found LanguageController category                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\Language.php                        
+        | String: 51 
+        
+=================
+[2023-06-26 16:09:41] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:42] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:42] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:42] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:43] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:54] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:54] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:09:54] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:44:00] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:44:00] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 16:44:01] 
+        Error text: Undefined array key "title"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\parts\products_loop.php                        
+        | String: 11 
+        
+=================
+[2023-06-26 17:18:32] 
+        Error text: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:34:33] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:34:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:35:34] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:35:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:35:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:35:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:35:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:37:30] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:37:31] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:37:31] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:37:31] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:37:53] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:37:53] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:37:53] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:37:54] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:38:09] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:38:09] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:38:09] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:38:11] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:38:12] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:38:12] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 17:38:14] 
+        Error text: Not found LanguageController categor                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\Language.php                        
+        | String: 51 
+        
+=================
+[2023-06-26 17:38:19] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:09] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:10] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:10] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:11] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:12] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:12] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:12] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:14] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:15] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:15] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:35] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-26 20:54:49] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================

@@ -46,7 +46,7 @@ class Order extends AppModel
                             [$product_id]
                 );
 //                debug($product_id, 1);
-                debug($product,1);
+//                debug($product,1);
 //                debug($product['is_download']);
                 $order_download = R::xdispense('order_download');
                 $order_download->order_id = $order_id;

@@ -10,4 +10,5 @@ return [
     'category_view_sort_title_desc' => 'Назви (Я-A)',
     'category_view_sort_price_asc' => 'Ціна (низька > висока)',
     'category_view_sort_price_desc' => 'Ціна (висока > низька)',
+    'category_view_sort_time_asc' => 'Новинки',
 ];

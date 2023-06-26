@@ -5,7 +5,6 @@ namespace app\controllers;
 
 use app\models\BreadCrumbs;
 use app\models\Category;
-use app\models\User;
 use wfm\App;
 use wfm\Pagination;
 
@@ -30,10 +29,12 @@ class CategoryController extends AppController
 
         $ids = $this->model->getIds($category['id']);
         $ids = !$ids ? $category['id'] : $ids . $category['id'];
-
         $page = get('page');
+//        debug($ids,1);
 //        debug($page);
-        $pagination_per_page = get('pagination');;
+//        debug($_SESSION,1);
+
+        $pagination_per_page = get('pagination');
         $basic = App::$app->getProperty('pagination');
 //        debug($basic);
          $per_page = in_array($pagination_per_page, [5,10,15,25]) ? $pagination_per_page : $basic;

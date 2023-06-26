@@ -41,15 +41,15 @@ $lang = App::$app->getProperty('language');
                         $<?php echo $product['price'] ?>
                 </li>
             </ul>
-<!--        --><?php //var_dump($order['status'])?>
-    <?php if ($product['is_download'] && User::checkAuth() && User::testStatus($product['id'])): ?>
-<a href="user/download?id=<?php echo User::test($product['id'])?>">
+            <?php var_dump($product['id']);?>
+    <?php if ($product['is_download'] && User::checkAuth() && User::CheckProductStatus($product['id'])): ?>
+<a href="user/download?id=<?php echo User::getDownloadId($product['id'])?>">
     <button class="btn btn-danger download" type="button" >
         <?php __('tpl_product_language_toggler_download'); ?>
     </button></a>
 <?php endif; ?>
 
-<?php if (!(User::testStatus($product['id'])) && User::checkAuth() || User::testStatus($product['id']) && !($product['is_download']) || !(User::checkAuth())) : ?>
+<?php if (!(User::CheckProductStatus($product['id'])) && User::checkAuth() || User::CheckProductStatus($product['id']) && !($product['is_download']) || !(User::checkAuth())) : ?>
        <button class="btn btn-danger add-to-cart" type="button"
      data-id="<?php echo $product['id'] ?>"><?php __('tpl_product_language_toggler_buy'); ?></button>
    <?php endif; ?>

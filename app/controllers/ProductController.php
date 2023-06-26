@@ -19,6 +19,7 @@ class ProductController extends AppController
     {
         $lang = App::$app->getProperty('language');
 //        debug($lang,1);
+
         $product = $this->model->getProduct($this->route['slug'], $lang);
 //        debug($product, 1);
 
@@ -38,6 +39,7 @@ class ProductController extends AppController
         // array { приклад функції компакт
         //[product] => 'gallery'
         //       }
+        debug($product, 1);
 
     }
 

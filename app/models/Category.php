@@ -29,10 +29,11 @@ class Category extends AppModel
         $ids = '';
         foreach ($categories as $k => $v) {
             if ($v['parent_id']== $id) {
-                $ids .= $k . ',';
+                   $ids .= $k . ',';
                 $ids .= $this->getIds($k);
             }
         }
+//        debug($ids,1);
         return $ids;
     }
 
@@ -43,32 +44,30 @@ class Category extends AppModel
             'title_desc' => 'ORDER BY title DESC',
             'price_asc' => 'ORDER BY price ASC',
             'price_desc' => 'ORDER BY price DESC',
-
+            'date_release_asc' => 'ORDER BY date_release ASC',
         ];
         $order_by = '';
         if (isset($_GET['sort']) && array_key_exists($_GET['sort'], $sort_values)) {
             $order_by = $sort_values[$_GET['sort']];
         }
-
-        return R::getAll(
-            "SELECT p.*, pd.*
-                  FROM product p 
-                  JOIN product_description pd on p.id = pd.product_id
-                  WHERE p.status = 1
-                  AND p.category_id
-                  IN ($ids) 
-                  AND pd.language_id = ?
-                  $order_by  
-                  LIMIT $start, $per_page",
-                    [$lang['id']]);
-
-
+        //return R::getAll("SELECT p.*, pd.* FROM product p JOIN product_description pd on p.id = pd.product_id WHERE p.status = 1 AND p.category_id IN ($ids) AND pd.language_id = ? $order_by LIMIT $start, $perpage", [$lang['id']]);
+        return R::getAll("
+            SELECT p.*, pd.* 
+            FROM product p 
+            JOIN product_description pd on p.id = pd.product_id 
+            JOIN product_to_category ptc 
+            ON (p.id = ptc.product_id) 
+            WHERE p.status = 1 
+            AND ptc.category_id 
+            IN ($ids) 
+            AND pd.language_id = ? $order_by 
+            LIMIT $start, $per_page",
+            [$lang['id']]);
     }
 
     public function getCountProducts($ids): int
     {
-        return R::count('product', "category_id IN ($ids) AND status = 1");
-
+        return R::count('product_to_category', "category_id IN ($ids)");
     }
 
 
