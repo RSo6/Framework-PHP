@@ -39,7 +39,6 @@ class ProductController extends AppController
         // array { приклад функції компакт
         //[product] => 'gallery'
         //       }
-        debug($product, 1);
 
     }
 

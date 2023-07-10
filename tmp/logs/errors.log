@@ -13898,3 +13898,1575 @@
         | String: 206 
         
 =================
+[2023-06-26 21:27:37] 
+        Error text: Undefined array key "category_id"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\ProductController.php                        
+        | String: 33 
+        
+=================
+[2023-06-26 21:27:48] 
+        Error text: Undefined array key "category_id"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\ProductController.php                        
+        | String: 33 
+        
+=================
+[2023-06-26 21:56:16] 
+        Error text: Connection to DB is failed                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Db.php                        
+        | String: 26 
+        
+=================
+[2023-06-26 21:58:17] 
+        Error text: Connection to DB is failed                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Db.php                        
+        | String: 26 
+        
+=================
+[2023-06-26 22:06:53] 
+        Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newmyshop.product_to_category' doesn't exist                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-06-29 18:29:09] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:49:58] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:49:59] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:04] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 18:50:05] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:01:11] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:09:29] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:21:27] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:21:27] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:21:27] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:21:27] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:21:27] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:22:05] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:22:05] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:22:05] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:22:05] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:22:05] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:25:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:25:10] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:25:14] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:25:14] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:25:18] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 19:25:18] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 20:05:58] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:06:30] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:06:31] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:06:56] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:06:56] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:06:57] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:06:57] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:07:32] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:07:32] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:07:34] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:07:34] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 20:07:34] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:07:34] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-06-29 20:07:34] 
+        Error text: compact(): Undefined variable $Головна Сторінка                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-06-29 20:07:35] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-02 12:40:02] 
+        Error text: compact(): Undefined variable $title                                             
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 11 
+        
+=================
+[2023-07-02 12:40:02] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-03 14:19:28] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-03 14:19:52] 
+        Error text: Controller app\controllers\admin\LoginAdminController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-03 14:44:14] 
+        Error text: Controller app\controllers\admin\LoginAdminController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-03 14:44:16] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-03 14:44:17] 
+        Error text: Controller app\controllers\admin\LoginAdminController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-03 14:50:13] 
+        Error text: Method app\controllers\admin\UserController::logoutAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-07-03 15:01:52] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-07-03 15:03:07] 
+        Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user' in 'where clause'                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-07-03 15:04:11] 
+        Error text: syntax error, unexpected identifier "debug"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 15 
+        
+=================
+[2023-07-03 15:04:12] 
+        Error text: syntax error, unexpected identifier "debug"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\MainController.php                        
+        | String: 15 
+        
+=================
+[2023-07-03 15:07:54] 
+        Error text: Controller app\controllers\admin\ProductController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-03 15:07:58] 
+        Error text: Method app\controllers\admin\UserController::indexAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-07-03 15:08:00] 
+        Error text: Controller app\controllers\admin\OrdersController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-03 15:08:03] 
+        Error text: Controller app\controllers\admin\OrderController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-03 20:48:42] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:51:41] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:51:43] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:51:44] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:51:44] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:51:44] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:51:51] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:52:24] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:53:28] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 23 
+        
+=================
+[2023-07-03 20:54:03] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 28 
+        
+=================
+[2023-07-03 20:54:04] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 28 
+        
+=================
+[2023-07-03 20:54:04] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 28 
+        
+=================
+[2023-07-03 20:54:04] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 28 
+        
+=================
+[2023-07-03 20:54:09] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:54:36] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:54:37] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:54:38] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:54:38] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-03 20:54:38] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\language\lang_tpl.php                        
+        | String: 5 
+        
+=================
+[2023-07-04 11:32:33] 
+        Error text: Controller app\controllers\admin\ProductController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-04 20:12:50] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-04 20:16:23] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-04 20:16:23] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-04 20:16:24] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-04 20:16:24] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-04 20:16:24] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-07 20:54:55] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-07 20:54:55] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-09 22:42:13] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-09 22:42:52] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:43:30] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:43:31] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:43:31] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:43:55] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:43:55] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:43:56] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:44:04] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:45:31] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:45:32] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:45:32] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:45:32] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:46:37] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:49:56] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:49:57] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:49:58] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:49:58] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:05] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:06] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:06] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:06] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:55] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:56] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:56] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:57] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:57] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:58] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:51:58] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:52:04] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:52:14] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:52:15] 
+        Error text: Controller app\controllers\admin\CategoryController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-07-09 22:53:32] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-09 22:54:13] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-09 22:54:13] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:47:37] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:48:06] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:48:07] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:48:07] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:51:27] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:51:27] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:51:28] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:51:28] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:51:28] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:51:28] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:51:29] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:51:29] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:51:56] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:53:03] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:53:04] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:53:04] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:53:05] 
+        Error text: Method app\controllers\admin\CategoryController::addAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-07-10 16:53:08] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 45 
+        
+=================
+[2023-07-10 16:55:19] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 30 
+        
+=================
+[2023-07-10 16:55:19] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 30 
+        
+=================
+[2023-07-10 16:55:19] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 30 
+        
+=================
+[2023-07-10 16:55:20] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 30 
+        
+=================
+[2023-07-10 16:55:20] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 30 
+        
+=================
+[2023-07-10 16:55:20] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 30 
+        
+=================
+[2023-07-10 16:55:31] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 31 
+        
+=================
+[2023-07-10 16:56:13] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 32 
+        
+=================
+[2023-07-10 16:56:13] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 32 
+        
+=================
+[2023-07-10 16:56:14] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 32 
+        
+=================
+[2023-07-10 16:56:14] 
+        Error text: Trying to access array offset on value of type null                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 32 
+        
+=================
+[2023-07-10 16:58:02] 
+        Error text: Class "app\controllers\admin\AppController" not found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\CategoryController.php                        
+        | String: 5 
+        
+=================
+[2023-07-10 17:02:12] 
+        Error text: Class "app\controllers\admin\AppControlle" not found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\CategoryController.php                        
+        | String: 5 
+        
+=================
+[2023-07-10 17:02:28] 
+        Error text: Call to undefined method app\widgets\language\Language::getLanguages()                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 28 
+        
+=================
+[2023-07-10 17:02:29] 
+        Error text: Call to undefined method app\widgets\language\Language::getLanguages()                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\AppController.php                        
+        | String: 28 
+        
+=================
+[2023-07-10 17:02:42] 
+        Error text: Method app\controllers\admin\CategoryController::editAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-07-10 17:05:34] 
+        Error text: Method app\controllers\admin\CategoryController::addAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-07-10 17:06:22] 
+        Error text: Undefined array key "children"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\admin_table_tpl.php                        
+        | String: 3 
+        
+=================
+[2023-07-10 17:38:49] 
+        Error text: Method app\controllers\admin\CategoryController::editAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-07-10 17:54:40] 
+        Error text: require(D:\OSPanel\domains\new-myshop.loc/app/widgets/menu/admin_select_tpl.php): Failed to open stream: No such file or directory                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\widgets\menu\Menu.php                        
+        | String: 100 
+        
+=================
+[2023-07-10 18:52:32] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:52:33] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-10 18:52:42] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:52:44] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:52:52] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:53:16] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:53:17] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:53:17] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:53:26] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:53:27] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:53:30] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:54:49] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:54:52] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:54:52] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:54:57] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:55:11] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:55:46] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:55:47] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:55:47] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:55:47] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:55:48] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:55:48] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:23] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:57] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:57] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:58] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:58] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:58] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:58] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:59] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:59] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:59] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:59] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:56:59] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:57:00] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:57:00] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:57:00] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:57:00] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:57:01] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:57:01] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:57:01] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 13 
+        
+=================
+[2023-07-10 18:58:09] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 16 
+        
+=================
+[2023-07-10 18:58:10] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 16 
+        
+=================
+[2023-07-10 18:58:12] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 16 
+        
+=================
+[2023-07-10 18:58:12] 
+        Error text: htmlspecialchars(): Argument #1 ($string) must be of type string, array given                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\helpers\functions.php                        
+        | String: 16 
+        
+=================
+[2023-07-10 20:48:38] 
+        Error text: Class "R" not found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\admin\Category.php                        
+        | String: 28 
+        
+=================
+[2023-07-10 20:48:38] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-10 20:49:10] 
+        Error text: Class "R" not found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\admin\Category.php                        
+        | String: 28 
+        
+=================
+[2023-07-10 20:49:11] 
+        Error text: Class "R" not found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\admin\Category.php                        
+        | String: 28 
+        
+=================
+[2023-07-10 20:49:23] 
+        Error text: app\models\admin\Category::saveCategory(): Return value must be of type bool, none returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\admin\Category.php                        
+        | String: 60 
+        
+=================

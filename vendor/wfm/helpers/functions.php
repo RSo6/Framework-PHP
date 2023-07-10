@@ -10,7 +10,10 @@ function debug($data, $die = false)// просто функція для гар�
 
 function h($str)
 {
-    return $str ? htmlspecialchars($str,  ENT_COMPAT, 'UTF-8') : '';
+    if ($str === null) {
+        return '';
+    }
+    return htmlspecialchars($str);
 }
 
 function redirect($http = false)
@@ -90,7 +93,10 @@ function getFieldValue($name)
     return isset($_SESSION['form_data'][$name]) ? h($_SESSION['form_data'][$name]) : '';
 }
 
-
+function getFieldArrayValue($name, $key, $index)
+{
+    return isset($_SESSION['form_data'][$name][$key][$index]) ? h($_SESSION['form_data'][$name][$key][$index]) : '';
+}
 
 
 

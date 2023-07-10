@@ -39,6 +39,7 @@ $lang = App::$app->getProperty('language');
                             <small>$<?php echo $product['old_price'] ?></small>
                         <?php endif; ?>
                         $<?php echo $product['price'] ?>
+
                 </li>
             </ul>
             <?php var_dump($product['id']);?>

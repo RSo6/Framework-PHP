@@ -16,6 +16,7 @@ class Product extends AppModel
             WHERE p.status = 1 
               AND p.slug = ? 
               AND pd.language_id = ?", [$slug, $lang['id']]);
+
     }
 
     public function getGallery($product_id): array //функція яка дістає фото для продукту по його id

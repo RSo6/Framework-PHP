@@ -47,7 +47,8 @@ class CategoryController extends AppController
 //        debug($start);
 
         $products = $this->model->getProducts($ids, $lang, $start, $per_page);
-//        debug($products);
+
+//        debug($products, 1);
         $this->setMeta($category['title'], $category['description'], $category['keywords']);
         $this->set(compact('products', 'category', 'bread_crumbs', 'total', 'pagination'));
     }

@@ -1,0 +1,77 @@
+<?php
+
+namespace app\models\admin;
+
+use app\models\AppModel;
+use RedBeanPHP\R;
+class Category extends AppModel
+{
+    public function categoryValidate(): bool
+    {
+        $errors = '';
+        foreach ($_POST['category_description'] as $lang_id => $item) {
+            $item['title'] = trim($item['title']);
+            if (empty($item['title'])) {
+                $errors .= "Назва не заповнена на вкладці {$lang_id} <br>";
+            }
+        }
+        if ($errors) {
+            $_SESSION['errors'] = $errors;
+            $_SESSION['form_data'] = $_POST;
+            return false;
+        }
+        return true;
+    }
+
+    public function saveCategory(): bool
+    {
+        R::begin();
+        try {
+            $category = R::dispense('category');
+            $category->parent_id = post('parent_id', 'i');
+            $category_id = R::store($category);
+            $category->slug = AppModel::createSlug(
+                'category',
+                'slug',
+                $_POST['category_description'][1]['title'],
+                $category_id
+            );
+            R::store($category);
+            foreach ($_POST['category_description'] as $lang_id => $item) {
+                R::exec(
+                    "INSERT INTO category_description 
+    (category_id, language_id, title, description, keywords, content) VALUES (?,?,?,?,?,?)",
+                    [
+                        $category_id,
+                        $lang_id,
+                        $item['title'],
+                        $item['description'],
+                        $item['keywords'],
+                        $item['content']
+                    ]
+                );
+            }
+            R::commit();
+        } catch (\Exception $e) {
+            R::rollback();
+            return false;
+        }
+        return true;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
