@@ -44,7 +44,7 @@
 
                <div class="form-group">
                     <label class="required" for="title">Назва</label>
-              <input type="text" name="category_description[<?php echo $lang['id'] ?>][title]" class="form-control" id="title" placeholder="Наименование категории" value="<?php echo getFieldArrayValue('category_description', $lang['id'], 'title') ?>" required2>
+              <input type="text" name="category_description[<?php echo $lang['id'] ?>][title]" class="form-control" id="title" placeholder="Наименование категории" value="<?php echo getFieldArrayValue('category_description', $lang['id'], 'title') ?>" required>
             </div>
 
           <div class="form-group">
@@ -80,3 +80,32 @@
 
 </div>
 <!-- /.card -->
+<script>
+    // https://question-it.com/questions/3558262/kak-ja-mogu-sozdat-neskolko-redaktorov-s-imenem-klassa
+    // https://ckeditor.com/docs/ckfinder/demo/ckfinder3/samples/ckeditor.html
+    window.editors = {};
+    document.querySelectorAll( '.editor' ).forEach( ( node, index ) => {
+        ClassicEditor
+            .create( node, {
+                ckfinder: {
+                    uploadUrl: '<?php echo PATH ?>/adminlte/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Files&responseType=json',
+                },
+                toolbar: [ 'ckfinder', '|', 'heading', '|', 'bold', 'italic', '|', 'undo', 'redo', '|', 'link', 'bulletedList', 'numberedList', 'insertTable', 'blockQuote' ],
+                image: {
+                    toolbar: [ 'imageTextAlternative', '|', 'imageStyle:alignLeft', 'imageStyle:alignCenter', 'imageStyle:alignRight' ],
+                    styles: [
+                        'alignLeft',
+                        'alignCenter',
+                        'alignRight'
+                    ]
+                }
+            } )
+            .then( newEditor => {
+                window.editors[ index ] = newEditor
+            } )
+            .catch( error => {
+                console.error( error );
+            } );
+    });
+
+</script>

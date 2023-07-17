@@ -3,7 +3,9 @@
 namespace app\controllers\admin;
 
 use app\models\admin\Category;
+use League\Flysystem\Exception;
 use RedBeanPHP\R;
+use wfm\App;
 
 /** @property Category $model */
 
@@ -42,6 +44,8 @@ class CategoryController extends AppController
 
     public function addAction()
     {
+
+
         if (!empty($_POST)) { //якщо пост не пустий
 //            debug($_POST, 1);
             if ($this->model->categoryValidate()) {//валідуємо
@@ -57,7 +61,36 @@ class CategoryController extends AppController
         $this->setMeta("Admin :: {$title}");
         $this->set(compact('title'));
     }
+    public function editAction()
+    {
+        $id = get('id');
+        if (!empty($_POST)) {
+            if ($this->model->categoryValidate()) {
+                if ($this->model->updateCategory($id)) {
+                    $_SESSION['success'] = 'Category has been update';
+                } else {
+                    $_SESSION['errors'] = 'Error';
+                }
+            }
+            redirect();
+
+        }
+        $category = $this->model->getCategory($id);
+//        debug($category,1);
+        if (!$category) {
+            throw new Exception('Category not found :(', 404);
+        }
+        $lang = App::$app->getProperty('language')['id'];
+//        debug($lang,1);
+//        debug($category,1);
+        App::$app->setProperty('parent_id', $category[$lang]['parent_id']);
+        $title = 'Category edit';
+        $this->setMeta("ADMIN::{$title}");
+        $this->set(compact('title', 'category'));
+    }
+
 }
+
 
 
 
