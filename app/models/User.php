@@ -117,16 +117,16 @@ class User extends AppModel
         );
 
     }
-    public static function getDownloadId($product_id)
+    public static function getDownloadId($product_id): array
     {
-    return   R::getCell(
+    return R::getCell(
             "SELECT download_id 
                             FROM product_download 
                             WHERE product_id = ?",
             [$product_id]
         );
     }
-    public static function CheckProductStatus($product_id)
+    public static function CheckProductStatus($product_id): array
     {
         return R::getCell(
             "SELECT download_id 

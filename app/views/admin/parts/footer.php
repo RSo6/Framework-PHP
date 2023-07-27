@@ -32,6 +32,7 @@
 <script src="<?php echo  PATH ?>/adminlte/dist/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="<?php echo  PATH ?>/adminlte/dist/js/demo.js"></script>
+<script src="<?php echo PATH ?>/adminlte/plugins/select2/js/select2.full.js"></script>
 <script src="<?php echo PATH ?>/adminlte/main.js"></script>
 </body>
 </html>
