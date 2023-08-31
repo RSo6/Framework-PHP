@@ -13,7 +13,7 @@ function h($str)
     if ($str === null) {
         return '';
     }
-    return htmlspecialchars($str);
+    return htmlspecialchars($str, ENT_QUOTES);
 }
 
 function redirect($http = false)

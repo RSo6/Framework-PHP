@@ -29,6 +29,7 @@
 <!-- Bootstrap 4 -->
 <script src="<?php echo PATH ?>/adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
+<script src="<?= PATH ?>/adminlte/plugins/bs-custom-file-input/bs-custom-file-input.min.js"></script>
 <script src="<?php echo  PATH ?>/adminlte/dist/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="<?php echo  PATH ?>/adminlte/dist/js/demo.js"></script>

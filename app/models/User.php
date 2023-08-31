@@ -117,7 +117,7 @@ class User extends AppModel
         );
 
     }
-    public static function getDownloadId($product_id): array
+    public static function getDownloadId($product_id)
     {
     return R::getCell(
             "SELECT download_id 
@@ -126,7 +126,7 @@ class User extends AppModel
             [$product_id]
         );
     }
-    public static function CheckProductStatus($product_id): array
+    public static function CheckProductStatus($product_id)
     {
         return R::getCell(
             "SELECT download_id 

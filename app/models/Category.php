@@ -7,7 +7,6 @@ use wfm\App;
 
 class Category extends AppModel
 {
-
     public function getCategory($slug, $lang): array
     {
         return R::getRow(
@@ -37,7 +36,7 @@ class Category extends AppModel
         return $ids;
     }
 
-    public function getProducts($ids, $lang, $start, $per_page): array
+   public function getProducts($ids, $lang, $start, $per_page): array
     {
         $sort_values = [
             'title_asc' => 'ORDER BY title ASC',

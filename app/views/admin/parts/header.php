@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="<?php echo PATH ?>/adminlte/dist/css/adminlte.min.css">
 
         <link rel="stylesheet" href="<?php echo PATH ?>/adminlte/plugins/select2/css/select2.min.css">
-        <link rel="stylesheet" href="<?php echo PATH ?>/adminlte/plugins/select2/css/select2.min.css">
+
     <link rel="stylesheet" href="<?php echo PATH ?>/adminlte/main.css">
     <script src="<?php echo PATH ?>/adminlte/ckeditor/ckeditor5-build-classic/ckeditor.js"></script>
     <script src="<?php echo PATH ?>/adminlte/ckfinder/ckfinder/ckfinder.js"></script>

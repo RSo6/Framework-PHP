@@ -15692,3 +15692,755 @@
         | String: 77 
         
 =================
+[2023-07-27 14:17:34] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-27 17:52:05] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-27 18:28:08] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-07-27 20:04:02] 
+        Error text: app\models\User::CheckProductStatus(): Return value must be of type array, null returned                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\models\User.php                        
+        | String: 136 
+        
+=================
+[2023-07-27 20:06:37] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-07-27 20:08:15] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-07-27 20:08:53] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-07-27 20:09:01] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-07-27 20:09:32] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-07-27 20:11:17] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-07-27 20:11:41] 
+        Error text: Array to string conversion                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php                        
+        | String: 233 
+        
+=================
+[2023-07-27 20:54:20] 
+        Error text: Illegal offset type                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\ProductController.php                        
+        | String: 68 
+        
+=================
+[2023-07-27 20:55:20] 
+        Error text: Illegal offset type                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\ProductController.php                        
+        | String: 68 
+        
+=================
+[2023-07-27 20:58:23] 
+        Error text: syntax error, unexpected token ";"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\admin\Product\edit.php                        
+        | String: 92 
+        
+=================
+[2023-07-27 20:58:57] 
+        Error text: Illegal offset type                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\ProductController.php                        
+        | String: 68 
+        
+=================
+[2023-08-15 18:51:41] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-08-15 18:52:02] 
+        Error text: Method app\controllers\admin\ProductController::deleteAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-08-15 19:47:20] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-15 19:47:46] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-15 19:49:06] 
+        Error text: Undefined property: wfm\Pagination::$countPages                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\admin\Download\index.php                        
+        | String: 41 
+        
+=================
+[2023-08-15 20:07:09] 
+        Error text: Не знайдено вид D:\OSPanel\domains\new-myshop.loc/app/views/admin/Download/add.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 37 
+        
+=================
+[2023-08-15 21:08:45] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,
+        [5]' at line 3                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-15 21:10:32] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,
+        [5]' at line 3                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-15 21:15:33] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,
+        [5]' at line 3                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-15 21:15:36] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,
+        [5]' at line 3                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-15 21:17:48] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,
+        [5]' at line 3                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-15 21:21:17] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,
+        [5]' at line 3                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-15 21:52:15] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,
+        [6]' at line 3                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-15 21:56:57] 
+        Error text: Call to undefined function get_field_value()                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\admin\Product\add.php                        
+        | String: 28 
+        
+=================
+[2023-08-17 20:17:14] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-08-17 20:19:32] 
+        Error text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,
+        [7]' at line 3                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php                        
+        | String: 206 
+        
+=================
+[2023-08-17 20:20:30] 
+        Error text: Controller app\controllers\admin\OrderController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:38:55] 
+        Error text: Controller app\controllers\admin\OrdersController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:39:36] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:40:37] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:40:38] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:40:38] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:40:38] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:40:38] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:40:38] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:40:39] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:40:39] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:18] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:18] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:19] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:19] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:19] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:19] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:19] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:19] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:20] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:20] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:20] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:41:20] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:42:21] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:42:21] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:42:21] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:42:21] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:42:21] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:42:22] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:42:22] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:42:22] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:42:22] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:43:15] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:43:15] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:43:16] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:43:17] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:43:17] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:43:17] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:43:17] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 27 
+        
+=================
+[2023-08-17 20:44:09] 
+        Error text: Controller app\controllers\admin\OrdersController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:44:09] 
+        Error text: Controller app\controllers\admin\OrdersController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:44:10] 
+        Error text: Controller app\controllers\admin\OrdersController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:44:10] 
+        Error text: Controller app\controllers\admin\OrdersController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:44:22] 
+        Error text: Unclosed '{' on line 15                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:44:32] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:44:46] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:44:47] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:44:47] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:45:44] 
+        Error text: Controller app\controllers\admin\OrderController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:45:50] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:46:27] 
+        Error text: Controller app\controllers\admin\OrderController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:46:33] 
+        Error text: Controller app\controllers\admin\OrderController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:46:39] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:47:12] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:47:12] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:47:13] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:47:15] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:47:42] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:47:43] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:47:43] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:47:43] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:47:43] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:48:24] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:48:24] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:48:24] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:48:25] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:48:25] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:48:25] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:48:25] 
+        Error text: Typed property wfm\Controller::$model must not be accessed before initialization                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\OrdersController.php                        
+        | String: 25 
+        
+=================
+[2023-08-17 20:48:28] 
+        Error text: Controller app\controllers\admin\OrderController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-17 20:52:53] 
+        Error text: Undefined property: wfm\Pagination::$countPages                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\admin\Order\index.php                        
+        | String: 42 
+        
+=================
+[2023-08-17 20:53:47] 
+        Error text: Method app\controllers\admin\OrderController::editAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-08-24 19:14:20] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-08-24 19:14:40] 
+        Error text: Method app\controllers\admin\UserController::indexAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-08-24 19:25:14] 
+        Error text: Undefined property: wfm\Pagination::$countPages                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\admin\User\index.php                        
+        | String: 47 
+        
+=================
+[2023-08-24 19:44:55] 
+        Error text: Method app\controllers\admin\UserController::editAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-08-24 19:56:01] 
+        Error text: Method app\controllers\admin\UserController::editAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-08-24 19:56:53] 
+        Error text: Undefined property: wfm\Pagination::$countPages                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\admin\User\view.php                        
+        | String: 73 
+        
+=================
+[2023-08-24 20:22:14] 
+        Error text: Не знайдено вид D:\OSPanel\domains\new-myshop.loc/app/views/admin/User/edit.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 37 
+        
+=================
+[2023-08-24 21:01:41] 
+        Error text: Call to undefined function get_field_value()                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\admin\User\add.php                        
+        | String: 11 
+        
+=================
+[2023-08-28 18:51:13] 
+        Error text: Controller app\controllers\admin\CacheController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-28 18:58:09] 
+        Error text: Method app\controllers\admin\CacheController::deleteAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-08-28 19:00:08] 
+        Error text: Не знайдено вид D:\OSPanel\domains\new-myshop.loc/app/views/admin/Cache/delete.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 37 
+        
+=================
+[2023-08-28 19:06:00] 
+        Error text: Не знайдено вид D:\OSPanel\domains\new-myshop.loc/app/views/admin/Cache/delete.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 37 
+        
+=================
+[2023-08-28 19:09:50] 
+        Error text: Controller app\controllers\admin\PageController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-28 19:10:08] 
+        Error text: Controller app\controllers\admin\PageController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-28 19:25:49] 
+        Error text: Method app\controllers\admin\PageController::deleteAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-08-28 19:33:35] 
+        Error text: syntax error, unexpected token "}"                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\controllers\admin\PageController.php                        
+        | String: 40 
+        
+=================
+[2023-08-28 19:37:15] 
+        Error text: Call to undefined function get_field_array_value()                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\app\views\admin\Page\add.php                        
+        | String: 28 
+        
+=================
+[2023-08-31 19:24:44] 
+        Error text: Page Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 77 
+        
+=================
+[2023-08-31 19:25:10] 
+        Error text: Method app\controllers\admin\PageController::editAction Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 71 
+        
+=================
+[2023-08-31 19:41:30] 
+        Error text: Controller app\controllers\admin\SliderController Not Found                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\Router.php                        
+        | String: 74 
+        
+=================
+[2023-08-31 19:48:56] 
+        Error text: Не знайдено вид D:\OSPanel\domains\new-myshop.loc/app/views/admin/Slider/index.php                                            
+        | File: D:\OSPanel\domains\new-myshop.loc\vendor\wfm\View.php                        
+        | String: 37 
+        
+=================

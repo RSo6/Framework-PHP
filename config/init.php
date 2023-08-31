@@ -12,6 +12,6 @@ define("CONFIG", ROOT . '/config');
 define("LAYOUT", 'myshop'); //шаблон сайта по замовчув.
 define("PATH", 'http://new-myshop.loc'); //адрес сайта
 define("ADMIN", 'http://new-myshop.loc/admin'); //адрес сайта адміна
-define("NO_IMAGE", 'uploads/no_image.jpg'); //шлях до карт.якщо нема фото товара
+define("NO_IMAGE", '/public/uploads/no_image.jpg'); //шлях до карт.якщо нема фото товара
 
 require_once ROOT . '/vendor/autoload.php'; //підключаєм автозагрузчик
